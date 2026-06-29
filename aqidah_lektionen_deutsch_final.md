@@ -7,8 +7,93 @@
 
 ---
 
+## Über den Autor
+
+### Šaykh Aḥmad an-Naǧǧār
+
+**Name:**  
+Abū Asmā Aḥmad ibn Muḥammad ibn aṣ-Ṣādiq an-Naǧǧār
+
+**Geburt:**  
+In Tripolis, der Hauptstadt Libyens – 1400 n. H. (entsprechend dem 1. September 1980 n. Chr.)
+
+**Akademische Qualifikationen:**
+
+Der Šaykh erwarb seinen Bachelor-Abschluss an der Islamischen Universität von Madīnah, Fakultät für Ḥadīṯ und Islamische Studien, im Jahre 1425–1426 n. H. (entsprechend 2004–2005 n. Chr.) mit Auszeichnung und höchster Note (first-class honors). Anschließend erwarb er seinen Master-Abschluss an der Islamischen Universität von Madīnah, Fakultät für Daʿwah und Grundlagen der Religion, am 6.3.1431 n. H. (entsprechend dem 20.2.2010 n. Chr.) – mit Auszeichnung, höchster Note und einer Empfehlung zur Veröffentlichung der Abschlussarbeit. Auch seinen Doktortitel (Ph.D.) erlangte er an der Islamischen Universität von Madīnah, Fakultät für Daʿwah und Grundlagen der Religion. Die Dissertation wurde am 2.12.1436 n. H. verteidigt – mit Auszeichnung, höchster Note und einer Empfehlung zur Veröffentlichung.
+
+**Veröffentlichte Werke:**
+
+Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher und Abhandlungen verfasst. Diese Werke umfassen Bücher zur allgemeinen ʿAqīdah (wie das vorliegende Buch), Bücher zur detaillierten ʿAqīdah, Bücher zur Verteidigung des Weges (Manhaǧ) der Salaf sowie Bücher zu Uṣūl al-Fiqh.
+
+*1. Allgemeine Glaubenslehre (ʿAqīdah):*
+- Wichtige Lektionen für die allgemeine Ummah in der ʿAqīdah (dieses Buch)
+- Grundregeln im Bereich der ʿAqīdah (Qawāʿid Bāb al-Iʿtiqād)
+
+*2. Glaube an Allah (al-Īmān billāh):*
+- Klärung der Regeln (Aḥkām) bezüglich des Besuchs von Gräbern und Schreinen
+- Das Urteil über das Gebet auf dem Friedhof ohne die Absicht der Verehrung
+- Wichtige Fragen und Antworten zum kleinen Širk (Širk al-Aṣghar)
+- Die salafitischen Regeln und Maßstäbe bei den Namen und Eigenschaften des Herrn der Geschöpfe
+- Die Übereinstimmung Ibn Taymiyyahs mit den Imāmen der Salaf bei der Festlegung der Regeln und Maßstäbe im Bereich der Namen und Eigenschaften
+- Erläuterung der Regeln der Namen und Eigenschaften (Qawāʿid al-Asmāʾ waṣ-Ṣifāt)
+- Erläuterung der Maßstäbe der Eigenschaften (Ḍawābiṭ aṣ-Ṣifāt)
+- Die Klärung der Bedeutung von „aṣ-Ṣūrah" im Ausspruch des Propheten ﷺ: „Allah erschuf Ādam nach Seiner Gestalt"
+- Die Auswirkung des Glaubens an die Eigenschaften Allahs auf das Verhalten des Dieners
+
+*3. Die übrigen Säulen des Īmān:*
+- Die Wirklichkeit der Engel (Ḥaqīqat al-Malāʾikah)
+- Der Glaube an die Bücher zwischen der Bejahung der Salaf und der Verneinung der Ahl al-Kalām
+- Die glaubensbezogenen Untersuchungen zum Glauben an die Gesandten
+- Der Glaube an das, was nach dem Tod kommt (Fragen und Belege)
+- Die Grundregeln der Ahl al-Aṯar im Glauben an den Qadar
+
+*4. Verteidigung des Weges der Salaf und Erläuterung ihrer Schriften:*
+- Faṣl al-Maqāl über die Pflicht der Nachfolge der ehrwürdigen Salaf
+- Das Urteil über das gemeinschaftliche Dhikr bei den Imāmen der Salaf
+- Aufklärung der Nachfolgenden (Khalaf) über die Maßstäbe der Grundlagen, von denen diejenigen abwichen, die den Weg der Salaf verließen
+- Aufklärung der Vernünftigen über die wahre Lehre der Ašāʿirah bei der Beweisführung mit dem Wort Allahs und Seines Gesandten ﷺ
+- Die Lossprechung der Imāme der Salaf vom Tafwīḍ (dem Unbestimmtlassen) bei den Eigenschaften Allahs
+- Die sunnitischen Antworten auf die Erfindungen des Ašʿariten Saʿīd Fawdah in seiner Kritik an „at-Tadmuriyyah"
+- Erläuterung der Einleitung zur Glaubenslehre von Ibn Abī Zayd al-Qayrawānī
+- Die sunnitischen Anmerkungen zur Glaubenseinleitung von Ibn ʿĀšir (zugleich ein Kommentar zur kleinen sanūsitischen ʿAqīdah „Umm al-Barāhīn")
+
+*5. Uṣūl al-Fiqh (Grundlagen der islamischen Rechtswissenschaft):*
+- Lektionen in Uṣūl al-Fiqh für Anfänger
+- Ein Grundtext in Uṣūl al-Fiqh nach der Glaubensüberzeugung der Imāme der Salaf
+- Die uṣūlitischen Regeln, auf denen ein praktischer Ertrag aufbaut
+- Erläuterung von „al-Waraqāt" in Uṣūl al-Fiqh (mit Hinweisen auf die kalām-theologischen Fragen)
+- Erläuterung von „Minhāǧ al-Wuṣūl ilā ʿIlm al-Uṣūl" von al-Bayḍāwī (mit Hinweisen auf die kalām-theologischen Fragen)
+
+*6. Arabische Sprache:*
+- Die figurative Sprache (al-Maǧāz) im Arabischen (eine gedanklich-imaginäre Frage)
+
+> *اللَّهُمَّ اجْعَلْ ذَلِكَ خَالِصًا لِوَجْهِكَ الْكَرِيمِ وَانْفَعْ بِهِ الْمُسْلِمِينَ*
+>
+> „O Allah, mache dies aufrichtig für Dein edles Antlitz und lass die Muslime davon profitieren."
+
+**Akademische Tätigkeiten:**
+
+- Der Šaykh lehrte an der Islamischen Universität von Madīnah neun akademische Semester lang, von 1430/1431 n. H. bis 1434/1435 n. H.
+- Neben dem Erhalt eines Zertifikats für Lehrerfahrung von der Fakultät für Daʿwah und Grundlagen der Religion der Islamischen Universität von Madīnah nahm er an verschiedenen Programmen der Saudischen Vereinigung für Glaubenslehre, Religionen, Sekten und Denkschulen teil.
+- Der Šaykh nahm an einem WhatsApp-gestützten Programm zur Erläuterung der Grundlagen des Glaubenskapitels teil und beteiligte sich am Programm „Fragen der Glaubenslehre", das im Radiosender des Heiligen Qurʾān in Riyāḍ ausgestrahlt wurde.
+
+**Verwaltungstätigkeit:**
+
+Der Šaykh war im Jahre 1427 n. H. als Sekretär der Saudischen Vereinigung für Glaubenslehre, Religionen, Sekten und Denkschulen tätig.
+
+**Lob der Gelehrten über ihn:**
+
+Der Muftī von Madīnah, Šaykh Ṣāliḥ as-Suhaymī, sagte über den Šaykh:
+
+> „Wahrlich, unser Bruder, Šaykh Aḥmad ibn Muḥammad an-Naǧǧār, der derzeit seine Doktorarbeit (Ph.D.) an der Islamischen Universität von Madīnah im Fachbereich ʿAqīdah verfasst, ist einer der besten Studenten des Wissens, die ich kenne – ein Verifizierer (muḥaqqiq) mit gesundem und korrektem Manhaǧ … Allah ist mein Zeuge, dass ich ihn um Allahs willen liebe …"
+>
+> [Quelle: youtu.be/oo09d8yHcL8 – Zeitangabe: 4bWgg3d5jve.3CP]
+
+---
+
 ## Inhaltsverzeichnis
 
+0. [Über den Autor](#über-der-autor)
 1. [Einleitung (al-Muqaddimah)](#einleitung)
 2. [Quellen der ʿAqīdah](#quellen)
 3. [Tor 1 – Die sechs Säulen des Īmān](#tor-1)

@@ -275,7 +275,7 @@ Der Glaube an Allah hat zahlreiche Früchte, die in den Texten des Buches und de
 
 Das gute Leben im Diesseits und Jenseits wird also durch den Glauben an Allah und das rechtschaffene Werk erlangt.
 
-**Die zweite Frucht:** Die Schutzfreundschaft Allahs ﷻ (Wilāyat Allāh) und Sein Beistand. Wer also will, dass Allah ihm beisteht, der verwirkliche den Glauben an Allah ﷻ. Allah, der Erhabene, sagt:
+**Die zweite Frucht:** Die Schutzfreundschaft Allahs ﷻ (Wilāyat Allāh) und Seine Hilfe (Unterstützung). Wer also will, dass Allah ihm hilft, der verwirkliche den Glauben an Allah ﷻ. Allah, der Erhabene, sagt:
 
 > *﴿وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ﴾*
 >
@@ -283,7 +283,7 @@ Das gute Leben im Diesseits und Jenseits wird also durch den Glauben an Allah un
 >
 > [Āl ʿImrān: 68]
 
-Das heißt: der Beistand der Gläubigen.
+Das heißt: die Hilfe (Unterstützung) der Gläubigen.
 
 **Die dritte Frucht:** Der Eintritt ins Paradies und der Genuss seiner Wonnen. Es gibt im Paradies keine größere Wonne als das Schauen Allahs ﷻ. Und der Eintritt ins Paradies geschieht durch die Verwirklichung des Glaubens an Allah ﷻ. Er, der Erhabene, sagt:
 
@@ -746,7 +746,7 @@ Der Glaube an die Engel ist eine Säule von den Säulen des Īmān; der Glaube d
 - **Sie sind gewaltig in der Schöpfung;** ihre Erschaffung ist gewaltig. Der Prophet ﷺ sah Ǧibrīl in seiner wahren Gestalt, und er verdeckte, was zwischen Himmel und Erde ist. Und er sagte auch: *„أُذِنَ لِي أَنْ أُحَدِّثَ عَنْ مَلَكٍ مِنْ مَلَائِكَةِ حَمَلَةِ الْعَرْشِ، مَا بَيْنَ شَحْمَةِ أُذُنِهِ إِلَى عَاتِقِهِ مَسِيرَةُ سَبْعِمِائَةِ عَامٍ"* „Mir wurde erlaubt, über einen Engel von den Trägern des Thrones zu berichten: Zwischen seinem Ohrläppchen und seiner Schulter ist eine Strecke von siebenhundert Jahren" [Überliefert von Abū Dāwūd]. Dies weist auf die Gewaltigkeit der Erschaffung der Engel hin.
 - **In schöner Gestalt** – im Sinne von: ihr Anblick ist schön, wie Allah über Ǧibrīl sagte: *﴿ذُو مِرَّةٍ فَٱسْتَوَىٰ﴾* „von schöner Gestalt (Kraft); dann richtete er sich auf" [an-Naǧm: 6] – das heißt: von schönem Anblick. Und die Frauen, die Yūsuf sahen, sagten: *﴿حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ﴾* „Behüte Allah! Das ist kein Mensch; das ist nur ein edler Engel" [Yūsuf: 31]; denn bei ihnen stand fest, dass die Engel von schöner Gestalt sind.
 - **Sie haben Flügel,** wie Allah, der Erhabene, sagt: *﴿جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ﴾* „(Er ist es,) der die Engel zu Gesandten macht, mit Flügeln, je zwei, drei und vier" [Fāṭir: 1].
-- **Sie kehren ein, hören, sitzen, steigen herab** und anderes, was in den Texten von Buch und Sunnah vorkommt.
+- **Sie haben Hände (Handflächen), hören, sitzen, steigen herab** und anderes, was in den Texten von Buch und Sunnah vorkommt.
 
 ### Die Art und Weise des Glaubens an die Engel
 

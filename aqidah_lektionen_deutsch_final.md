@@ -54,7 +54,7 @@ Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher un
 0. [Über den Autor](#über-den-autor)
 1. [Einleitung (al-Muqaddimah)](#einleitung)
 2. [Die ʿAqīdah und ihre Einteilung](#aqida-einteilung)
-3. [Die Quellen der Erkenntnis (Maṣādir at-Talaqqī)](#quellen)
+3. [Die Quellen der Herleitung (Maṣādir at-Talaqqī)](#quellen)
 4. [Tor 1 – Die sechs Säulen des Īmān](#tor-1)
    - [1. Säule: Īmān billāh](#pillar-1)
    - [2. Säule: Īmān bil-Malāʾikah](#pillar-2)
@@ -106,7 +106,7 @@ Daher ist es für die Muslime Pflicht, sich um die ʿAqīdah zu kümmern: im Ver
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node accent"><span class="ns">الباب الأول</span><span class="nt">Tor 1 — Arkān al-Īmān</span>Die sechs Säulen des Īmān:
-      <ul><li>Īmān billāh (Rubūbiyyah · Asmāʾ waṣ-Ṣifāt · Ulūhiyyah)</li><li>Īmān bil-Malāʾikah</li><li>Īmān bil-Kutub</li><li>Īmān bir-Rusul</li><li>Īmān bil-Yawm al-Ākhir</li><li>Īmān bil-Qadar</li></ul></div></div>
+      <ul><li>Īmān billāh – Glaube an Allah (Rubūbiyyah – Herrschaft · Asmāʾ waṣ-Ṣifāt – Namen u. Eigenschaften · Ulūhiyyah – Anbetung)</li><li>Īmān bil-Malāʾikah</li><li>Īmān bil-Kutub</li><li>Īmān bir-Rusul</li><li>Īmān bil-Yawm al-Ākhir</li><li>Īmān bil-Qadar</li></ul></div></div>
     <div class="flow-col"><div class="flow-node accent"><span class="ns">الباب الثاني</span><span class="nt">Tor 2 — Anschließendes</span>Was sich an die Säulen anschließt:
       <ul><li>Musammā al-Īmān (Benennung des Īmān)</li><li>Aṣ-Ṣaḥābah</li><li>Al-Imāmah</li></ul></div></div>
   </div>
@@ -136,12 +136,12 @@ Diese Glaubensfragen haben eine Wirkung auf das Verhalten (Sulūk) des Dieners. 
 
 ---
 
-## Die Quellen der Erkenntnis (Maṣādir at-Talaqqī) {#quellen}
+## Die Quellen der Herleitung (Maṣādir at-Talaqqī) {#quellen}
 
 ```html
 <div class="flow">
-  <div class="flow-caption">Abb. 2 — Die Erkenntnisquellen bei Ahl as-Sunnah wal-Jamāʿah (مصدر التلقي)</div>
-  <div class="flow-root"><span class="ns">مصدر التلقي عند أهل السنة والجماعة</span>Quelle der Erkenntnis bei Ahl as-Sunnah wal-Jamāʿah</div>
+  <div class="flow-caption">Abb. 2 — Die Herleitungsquellen bei Ahl as-Sunnah wal-Jamāʿah (مصدر التلقي)</div>
+  <div class="flow-root"><span class="ns">مصدر التلقي عند أهل السنة والجماعة</span>Quelle der Herleitung bei Ahl as-Sunnah wal-Jamāʿah</div>
   <div class="flow-down"></div>
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
@@ -155,9 +155,9 @@ Diese Glaubensfragen haben eine Wirkung auf das Verhalten (Sulūk) des Dieners. 
 </div>
 ```
 
-Mit „Quelle der Erkenntnis" (maṣdar at-talaqqī) ist gemeint: Woher wird die ʿAqīdah entnommen?
+Mit „Quelle der Herleitung" (maṣdar at-talaqqī) ist gemeint: Woher wird die ʿAqīdah entnommen?
 
-Die Quelle der Erkenntnis bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zurück:
+Die Quelle der Herleitung bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zurück:
 
 **Erstens: Al-Kitāb (das Buch).** Damit meinen wir den Qurʾān; denn der Qurʾān ist die Rede Allahs ﷻ – wirklich und wahrhaftig (ḥaqīqatan).
 
@@ -173,7 +173,7 @@ Die Quelle der Erkenntnis bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zu
 
 Was den Iǧmāʿ angeht, so geht auch er auf das Buch und die Sunnah zurück; denn der Iǧmāʿ muss notwendigerweise auf einem Beweis aus dem Buch und der Sunnah beruhen.
 
-Dies sind die Quellen der Erkenntnis bei Ahl as-Sunnah wal-Jamāʿah.
+Dies sind die Quellen der Herleitung bei Ahl as-Sunnah wal-Jamāʿah.
 
 **Es gibt zudem eine wichtige, vor dem Irrtum rettende Grundregel:** Wer diese Grundregel nicht beachtet, fällt unweigerlich in den Irrtum und gehört weder zur geretteten Gruppe (al-firqah an-nāǧiyah) noch zur siegreichen Gemeinschaft (aṭ-ṭāʾifah al-manṣūrah). Sie lautet:
 
@@ -378,7 +378,7 @@ Die Rubūbiyyah Allahs ﷻ beruht also auf: der Existenz Allahs und der Anerkenn
 >
 > [al-ʿAnkabūt: 61]
 
-Dennoch beteten sie neben Allah anderes an. Sie erkannten die Rubūbiyyah Allahs an, dass Er ﷻ der Schöpfer, der Eigentümer und der Versorger ist – und trotzdem bekämpfte sie der Prophet ﷺ und erklärte ihr Blut für vergießbar. Das ist so, weil dieser Tawḥīd allein nicht genügt.
+Dennoch beteten sie neben Allah anderes an. Sie erkannten die Rubūbiyyah Allahs an, dass Er ﷻ der Schöpfer, der Eigentümer und der Versorger ist – und trotzdem bekämpfte sie der Prophet ﷺ. Das ist so, weil dieser Tawḥīd allein nicht genügt.
 
 So müssen wir diese **wichtige Sache** beachten: dass der Tawḥīd ar-Rubūbiyyah eine Grundlage ist, die die Götzendiener der Araber anerkannten, und dass er allein nicht genügt für den Glauben an Allah ﷻ.
 

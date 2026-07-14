@@ -1,0 +1,6 @@
+node_modules/
+*.pdf
+*.html
+*.png
+cover_h.html
+body_h.html

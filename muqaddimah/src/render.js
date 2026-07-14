@@ -53,21 +53,23 @@ async function renderPDF(browser, htmlPath, outPath) {
   await renderPDF(browser, path.join(DIR, 'body.html'), path.join(DIR, 'body.pdf'));
   await browser.close();
 
-  // merge cover (2 pp) + body
+  // merge front matter (cover + title + author profile) + body
   const out = await PDFDocument.create();
+  let frontCount = 0;
   for (const f of ['cover.pdf', 'body.pdf']) {
     const src = await PDFDocument.load(fs.readFileSync(path.join(DIR, f)));
     const pages = await out.copyPages(src, src.getPageIndices());
     pages.forEach(p => out.addPage(p));
+    if (f === 'cover.pdf') frontCount = pages.length; // unnumbered front matter
   }
 
-  // draw ornamental frame + discreet page numbers on the body pages (all but first two)
+  // draw ornamental frame + discreet page numbers on the body pages only
   const font = await out.embedFont(StandardFonts.TimesRoman);
   const pages = out.getPages();
-  for (let i = 2; i < pages.length; i++) {
+  for (let i = frontCount; i < pages.length; i++) {
     const p = pages[i];
     drawFrame(p);
-    const n = i - 1; // first body page = 1
+    const n = i - frontCount + 1; // first body page = 1
     const label = `—  ${n}  —`;
     const size = 9.5;
     const w = font.widthOfTextAtSize(label, size);

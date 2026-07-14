@@ -109,6 +109,36 @@ i,em{font-style:italic;}
 .tp-trans .lbl{font-family:'Cormorant',serif;letter-spacing:.26em;text-transform:uppercase;font-size:3mm;color:${C.gold};}
 .tp-trans .nm{margin-top:1.5mm;font-family:'Cormorant',serif;font-size:6mm;color:${C.emerald};font-weight:600;}
 
+/* ---------- FRONT MATTER: AUTHOR PROFILE ---------- */
+.bio{position:relative;width:148mm;height:210mm;background:${C.cream};overflow:hidden;}
+.bio-inner{position:relative;z-index:2;height:100%;padding:13mm 16mm 12mm;display:flex;flex-direction:column;}
+.bio .tp-top-orn{width:25mm;height:7mm;margin-bottom:3.5mm;}
+.bio .tp-div{width:62mm;height:8mm;margin:3.5mm 0;}
+.bio-kicker{text-align:center;font-family:'Cormorant',serif;font-variant:small-caps;
+  letter-spacing:.22em;text-transform:uppercase;font-size:9.5pt;color:${C.gold};}
+.bio-name-ar{text-align:center;font-family:'Amiri',serif;font-weight:400;color:${C.emerald};
+  font-size:12mm;line-height:1.12;margin-top:2mm;}
+.bio-name-lat{text-align:center;font-family:'Cormorant',serif;font-size:4.4mm;
+  letter-spacing:.08em;color:${C.inkSoft};margin-top:1mm;}
+.bio-sub{text-align:center;margin:1.5mm 0 2.5mm;font-family:'Cormorant',serif;font-variant:small-caps;
+  letter-spacing:.14em;color:${C.emerald};font-size:12.5pt;font-weight:600;}
+.bio-sub.first{margin-top:1mm;}
+.steck{font-size:9pt;line-height:1.3;}
+.steck .row{display:flex;gap:3mm;padding:1.05mm 0;border-bottom:.4pt solid ${C.rule}80;}
+.steck .row:last-child{border-bottom:none;}
+.steck .lbl{flex:0 0 27mm;font-family:'Cormorant',serif;font-variant:small-caps;letter-spacing:.02em;
+  color:${C.emerald};font-weight:600;font-size:10pt;line-height:1.22;}
+.steck .val{flex:1;color:${C.ink};}
+.steck .val i{font-style:italic;}
+.works{columns:2;column-gap:9mm;font-size:9.7pt;line-height:1.4;list-style:none;margin-top:1mm;}
+.works li{break-inside:avoid;position:relative;padding-left:5.5mm;margin-bottom:2.2mm;}
+.works li::before{content:'';position:absolute;left:.5mm;top:1.9mm;width:1.8mm;height:1.8mm;
+  background:${C.gold};transform:rotate(45deg);}
+.works li i{font-style:italic;color:${C.ink};}
+.works li .wg{color:${C.inkSoft};font-size:.9em;}
+.bio-note{margin-top:auto;text-align:center;font-family:'EB Garamond',serif;font-style:italic;
+  font-size:9pt;color:${C.inkSoft};padding-top:5mm;}
+
 /* ---------- BODY / CONTENT ----------
    The body page uses a zero @page margin; text margins are supplied by padding on
    .content. The ornamental frame lives inside the page box (inset 8mm) so that
@@ -211,7 +241,7 @@ const coverHTML = `
     </div>
     <div class="cover-spacer"></div>
     <div class="cover-trans">
-      <div class="lbl">Übersetzt von</div>
+      <div class="lbl">Überprüft von</div>
       <div class="nm">Abū Muḥammad as&#x2011;Sanzakī</div>
       <div class="orn">${orn.miniRosette(palCover, '#c9a24e')}</div>
     </div>
@@ -226,7 +256,7 @@ const titleHTML = `
   <div class="tp-inner">
     <div class="tp-top-orn">${orn.chapterDivider(palPage)}</div>
     <div class="tp-main">Muqaddimah</div>
-    <div class="tp-sub">Einführung in al&#x2011;Fatwā al&#x2011;Ḥamawiyyah</div>
+    <div class="tp-sub">Einleitung von al&#x2011;Fatwā al&#x2011;Ḥamawiyyah</div>
     <div class="tp-ar" lang="ar" dir="rtl">المُقَدِّمَة</div>
     <div class="tp-div">${orn.chapterDivider(palPage)}</div>
     <div class="tp-desc"><span class="lead">Ein klassisches Werk zur Klärung des rechtgläubigen
@@ -237,10 +267,69 @@ const titleHTML = `
       <div class="tp-author-ar" lang="ar" dir="rtl">شيخ الإسلام ابن تيمية</div>
       <div class="tp-author-lat">Shaykhu&#x2011;l&#x2011;Islām Aḥmad ibn Taymiyyah</div>
       <div class="tp-trans">
-        <div class="lbl">Übersetzt von</div>
+        <div class="lbl">Überprüft von</div>
         <div class="nm">Abū Muḥammad as&#x2011;Sanzakī</div>
       </div>
     </div>
+  </div>
+</div>`;
+
+const bioCorners = `
+  <div class="tp-corner tl">${corner}</div><div class="tp-corner tr">${corner}</div>
+  <div class="tp-corner bl">${corner}</div><div class="tp-corner br">${corner}</div>`;
+
+const steckRows = [
+  ['Voller Name', 'Taqiyy ad&#x2011;Dīn Abū l&#x2011;ʿAbbās Aḥmad ibn ʿAbd al&#x2011;Ḥalīm ibn ʿAbd as&#x2011;Salām ibn Taymiyyah al&#x2011;Ḥarrānī'],
+  ['Beiname', 'Shaykhu&#x2011;l&#x2011;Islām („Meister des Islam“)'],
+  ['Geboren', '10. Rabīʿ al&#x2011;Awwal 661 n.&#8239;H. (22. Januar 1263) in Ḥarrān'],
+  ['Gestorben', '20. Dhū l&#x2011;Qaʿda 728 n.&#8239;H. (26. September 1328) in der Zitadelle von Damaskus'],
+  ['Rechtsschule', 'ḥanbalitisch &#8211; zugleich eigenständiger <i>Mudschtahid</i>'],
+  ['Herkunft', 'angesehene Gelehrtenfamilie; Flucht vor den Mongolen nach Damaskus (667 n.&#8239;H.)'],
+  ['Wissensgebiete', 'Qurʾān, Tafsīr, Ḥadīth, Fiqh, Uṣūl, arabische Sprache, Kalām und Philosophie'],
+  ['Wirken', 'Lehrer und Muftī bereits in jungen Jahren; Verteidiger der ʿaqīda der Ahl as&#x2011;Sunna'],
+  ['Dschihād', 'Aufruf und Teilnahme am Kampf gegen die Mongolen (Schlacht von Schaqḥab, 702 n.&#8239;H.)'],
+  ['Prüfungen', 'mehrfach inhaftiert in Kairo, Alexandria und Damaskus; verstarb in Gefangenschaft'],
+  ['Schüler', 'Ibn al&#x2011;Qayyim, adh&#x2011;Dhahabī, Ibn Kathīr, Ibn ʿAbd al&#x2011;Hādī u.&#8239;a.'],
+].map(([l, v]) => `<div class="row"><span class="lbl">${l}</span><span class="val">${v}</span></div>`).join('');
+
+const works = [
+  ['Madschmūʿ al&#x2011;Fatāwā', 'umfangreiche Fatwa-Sammlung'],
+  ['Minhādsch as&#x2011;Sunna an&#x2011;Nabawiyya', ''],
+  ['Darʾ Taʿāruḍ al&#x2011;ʿAql wa&#x2011;n&#x2011;Naql', ''],
+  ['al&#x2011;ʿAqīda al&#x2011;Wāsiṭiyya', ''],
+  ['al&#x2011;Fatwā al&#x2011;Ḥamawiyya al&#x2011;Kubrā', ''],
+  ['al&#x2011;ʿAqīda at&#x2011;Tadmuriyya', ''],
+  ['Iqtiḍāʾ aṣ&#x2011;Ṣirāṭ al&#x2011;Mustaqīm', ''],
+  ['aṣ&#x2011;Ṣārim al&#x2011;Maslūl ʿalā Schātim ar&#x2011;Rasūl', ''],
+  ['Kitāb al&#x2011;Īmān', ''],
+  ['ar&#x2011;Radd ʿalā al&#x2011;Manṭiqiyyīn', ''],
+  ['al&#x2011;Dschawāb aṣ&#x2011;Ṣaḥīḥ li&#x2011;man Baddala Dīn al&#x2011;Masīḥ', ''],
+  ['al&#x2011;ʿUbūdiyya', ''],
+  ['Qāʿida Dschalīla fī t&#x2011;Tawassul wa&#x2011;l&#x2011;Wasīla', ''],
+  ['as&#x2011;Siyāsa asch&#x2011;Scharʿiyya', ''],
+  ['al&#x2011;Kalim aṭ&#x2011;Ṭayyib', ''],
+].map(([t, g]) => `<li><i>${t}</i>${g ? ` <span class="wg">&#8211; ${g}</span>` : ''}</li>`).join('');
+
+const bioHTML = `
+<div class="bio">
+  <div class="tp-frame"></div>${bioCorners}
+  <div class="bio-inner">
+    <div class="tp-top-orn">${orn.chapterDivider(palPage)}</div>
+    <div class="bio-kicker">Einleitung &#183; Über den Verfasser</div>
+    <div class="bio-name-ar" lang="ar" dir="rtl">شيخ الإسلام ابن تيمية</div>
+    <div class="bio-name-lat">Taqiyy ad&#x2011;Dīn Aḥmad ibn Taymiyyah</div>
+    <div class="tp-div">${orn.chapterDivider(palPage)}</div>
+    <div class="bio-sub first">Steckbrief</div>
+    <div class="steck">${steckRows}</div>
+  </div>
+</div>
+<div class="bio">
+  <div class="tp-frame"></div>${bioCorners}
+  <div class="bio-inner">
+    <div class="tp-top-orn">${orn.chapterDivider(palPage)}</div>
+    <div class="bio-sub first">Seine Werke <span style="text-transform:none;font-variant:normal;font-size:.8em;">(Auswahl)</span></div>
+    <ul class="works">${works}</ul>
+    <div class="bio-note">Nur eine kleine Auswahl aus mehreren Hundert Werken, Abhandlungen und Fatwas.</div>
   </div>
 </div>`;
 
@@ -259,8 +348,8 @@ function doc(title, css, inner) {
 
 const coverDoc = doc('Muqaddimah — Umschlag',
   `@page{size:148mm 210mm;margin:0}body{background:${C.deep}}
-   .cover,.titlepage{page-break-after:always;}`,
-  coverHTML + titleHTML);
+   .titlepage,.bio{page-break-before:always;}`,
+  coverHTML + titleHTML + bioHTML);
 
 // Body text uses real per-page @page margins so every page keeps its top/bottom
 // text margin. The ornamental frame + page numbers are drawn afterwards onto each
@@ -271,7 +360,7 @@ const bodyDoc = doc('Muqaddimah',
   `<main class="content">${bodyHTML}</main>`);
 
 // combined self-contained viewer (screen + print)
-const combinedDoc = doc('Muqaddimah — Einführung in al-Fatwā al-Ḥamawiyyah',
+const combinedDoc = doc('Muqaddimah — Einleitung von al-Fatwā al-Ḥamawiyyah',
   `@page{size:148mm 210mm;margin:0}
    @media screen{body{background:#26463a;padding:8mm 0}
      .sheet{width:148mm;margin:0 auto 7mm;box-shadow:0 6px 30px #0006;position:relative;overflow:hidden;background:${C.cream}}
@@ -285,6 +374,7 @@ const combinedDoc = doc('Muqaddimah — Einführung in al-Fatwā al-Ḥamawiyyah
    }`,
   `<div class="sheet cover-sheet">${coverHTML}</div>
    <div class="sheet title-sheet">${titleHTML}</div>
+   <div class="sheet">${bioHTML}</div>
    <div class="sheet body">${frameHTML}<main class="content">${bodyHTML}</main></div>`);
 
 const OUT = __dirname;

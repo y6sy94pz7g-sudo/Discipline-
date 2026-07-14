@@ -27,7 +27,7 @@ module.exports = function content(orn, pal) {
 <section class="chapter">
   <div class="chapter-head">
     <div class="kicker">Von Shaykhu&#x2011;l&#x2011;Islām Ibn Taymiyyah</div>
-    <h1 class="chapter-title">Einführung zu<br><span class="ct-ar" lang="ar" dir="rtl">الفَتْوَى الحَمَوِيَّة</span><br><span class="ct-translit">al&#x2011;Fatwā al&#x2011;Ḥamawiyyah</span></h1>
+    <h1 class="chapter-title">Einleitung zu<br><span class="ct-ar" lang="ar" dir="rtl">الفَتْوَى الحَمَوِيَّة</span><br><span class="ct-translit">al&#x2011;Fatwā al&#x2011;Ḥamawiyyah</span></h1>
     ${div}
   </div>
 
@@ -143,7 +143,7 @@ module.exports = function content(orn, pal) {
 
   <p>Ferner: Wie können die Besten der Generationen (d.&#8239;h. die <i>Salaf</i>) geringer an Wissen und Weisheit sein als diese Jünglinge &#8211; im Vergleich zu ihnen &#8211;, zumal was das Wissen über Allāh und die Urteile hinsichtlich Seiner Verse und Namen betrifft? Oder wie können die Küken der Philosophen und die Anhänger [der Leute] von Hind (Indien) und der Griechen samt ihren Erben unter den Zoroastriern, Götzendienern und den irregeleiteten Juden, Christen und Sabäern und ihresgleichen wissender sein als die Erben der Propheten und die Leute des Qurʾān und des <i>īmān</i> (Glaubens)?</p>
 
-  <p>Ich habe daher nur deshalb mit dieser Einführung begonnen, weil derjenige, der sie fest verinnerlicht hat, wissen wird, wo die wahre Rechtleitung in diesem Thema und in anderem liegt. Ebenso wird er wissen, dass Irreleitung und Verwirrung sich nur deshalb über viele der Spätgeborenen ausgebreitet haben, weil sie das Buch Allāhs hinter ihre Rücken warfen und sich von den klaren Beweisen und der Rechtleitung abwandten, mit denen Allāh Muḥammad &#8211; Allāh segne ihn und gebe ihm Frieden &#8211; entsandte. Und auch [deshalb,] weil sie es unterließen, nach dem Wege der frühen Vorfahren und der <i>tābiʿūn</i> zu suchen, und [stattdessen] das Wissen über Allāh bei denen suchten, die Ihn nicht kannten &#8211; auf Grundlage ihres eigenen Eingeständnisses, des Zeugnisses der Gemeinschaft und unzähliger weiterer Beweise. Zudem ist es nicht mein Ziel, [eine] einzelne [Person im Besonderen zu behandeln]; ich werde jedoch von jeder Gruppe [von der irregeleiteten und der rechtgeleiteten] eine entsprechende Beschreibung geben &#8230;</p>
+  <p>Ich habe daher nur deshalb mit dieser Einleitung begonnen, weil derjenige, der sie fest verinnerlicht hat, wissen wird, wo die wahre Rechtleitung in diesem Thema und in anderem liegt. Ebenso wird er wissen, dass Irreleitung und Verwirrung sich nur deshalb über viele der Spätgeborenen ausgebreitet haben, weil sie das Buch Allāhs hinter ihre Rücken warfen und sich von den klaren Beweisen und der Rechtleitung abwandten, mit denen Allāh Muḥammad &#8211; Allāh segne ihn und gebe ihm Frieden &#8211; entsandte. Und auch [deshalb,] weil sie es unterließen, nach dem Wege der frühen Vorfahren und der <i>tābiʿūn</i> zu suchen, und [stattdessen] das Wissen über Allāh bei denen suchten, die Ihn nicht kannten &#8211; auf Grundlage ihres eigenen Eingeständnisses, des Zeugnisses der Gemeinschaft und unzähliger weiterer Beweise. Zudem ist es nicht mein Ziel, [eine] einzelne [Person im Besonderen zu behandeln]; ich werde jedoch von jeder Gruppe [von der irregeleiteten und der rechtgeleiteten] eine entsprechende Beschreibung geben &#8230;</p>
 
   <div class="endflourish">${orn.miniRosette(pal, pal.gold)}</div>
 

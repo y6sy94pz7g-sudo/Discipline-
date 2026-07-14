@@ -176,6 +176,11 @@ i,em{font-style:italic;}
 .fnref{font-family:'EB Garamond',serif;font-size:.62em;color:${C.gold};font-weight:600;
   vertical-align:super;line-height:0;padding-left:.3mm;}
 
+/* inline Qur'an quotation (braces) woven into running text */
+.qv{color:${C.emerald};font-weight:500;}
+.qvref{font-family:'Cormorant',serif;font-variant:small-caps;letter-spacing:.03em;
+  font-size:.82em;color:${C.gold};white-space:nowrap;}
+
 .endflourish{text-align:center;margin:7mm 0 3mm;}
 .endflourish svg{width:9mm;height:9mm}
 

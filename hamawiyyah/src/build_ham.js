@@ -219,6 +219,9 @@ i,em{font-style:italic;}
 .qv{color:${C.emerald};font-weight:500;}
 .qvref{font-family:'Cormorant',serif;font-variant:small-caps;letter-spacing:.03em;
   font-size:.82em;color:${C.gold};white-space:nowrap;}
+/* authorial interjection, subtly highlighted */
+.aside{background:${C.gold}33;box-decoration-break:clone;-webkit-box-decoration-break:clone;
+  padding:.2mm .5mm;border-radius:.6mm;}
 
 .endflourish{text-align:center;margin:7mm 0 3mm;}
 .endflourish svg{width:9mm;height:9mm}

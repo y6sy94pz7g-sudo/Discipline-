@@ -5,7 +5,7 @@
 **Übersetzung:** Vollständige, wörtliche Übersetzung aus dem Arabischen ins Deutsche  
 **Stil:** Islamisch-akademisches Deutsch
 
-> **Hinweis zu den Ehrenformeln:** ﷺ = *ṣallā Allāhu ʿalayhi wa-sallam* („Allah segne ihn und schenke ihm Heil"); ﷻ = *ǧalla ǧalāluhu / ʿazza wa-ǧalla* („erhaben und mächtig ist Er"); *raḍiya Allāhu ʿanhu* (رضي الله عنه) = „Allah möge mit ihm zufrieden sein". Diese Formeln stehen so auch im arabischen Original.
+> **Hinweis zu den Ehrenformeln:** ﷺ = *ṣallā Allāhu ʿalayhi wa-sallam* („Allah segne ihn und schenke ihm Frieden"); ﷻ = *ǧalla ǧalāluhu / ʿazza wa-ǧalla* („erhaben und mächtig ist Er"); *raḍiya Allāhu ʿanhu* (رضي الله عنه) = „Allah möge mit ihm zufrieden sein". Diese Formeln stehen so auch im arabischen Original.
 
 ---
 
@@ -27,7 +27,7 @@ Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher un
 
 *1. Allgemeine Glaubenslehre:* Wichtige Lektionen für die allgemeine Ummah in der ʿAqīdah (dieses Buch) · Grundregeln im Bereich der ʿAqīdah.
 
-*2. Glaube an Allah:* Klärung der Regeln bezüglich des Besuchs von Gräbern und Schreinen · Das Urteil über das Gebet auf dem Friedhof ohne Verehrungsabsicht · Wichtige Fragen und Antworten zum kleinen Širk · Die salafitischen Regeln und Maßstäbe bei den Namen und Eigenschaften des Herrn der Geschöpfe · Die Übereinstimmung Ibn Taymiyyahs mit den Imāmen der Salaf bei den Regeln zu Namen und Eigenschaften · Erläuterung der Regeln der Namen und Eigenschaften · Erläuterung der Maßstäbe der Eigenschaften · Klärung der Bedeutung von „aṣ-Ṣūrah" im Ausspruch „Allah erschuf Ādam nach Seiner Gestalt" · Die Auswirkung des Glaubens an Allahs Eigenschaften auf das Verhalten des Dieners.
+*2. Glaube an Allah:* Klärung der Regeln bezüglich des Besuchs von Gräbern und Schreinen · Das Urteil über das Gebet auf dem Friedhof ohne Verehrungsabsicht · Wichtige Fragen und Antworten zum kleinen Širk · Die Regeln und Maßstäbe der frommen Altvorderen (Salaf) bei den Namen und Eigenschaften des Herrn der Geschöpfe · Die Übereinstimmung Ibn Taymiyyahs mit den Imāmen der Salaf bei den Regeln zu Namen und Eigenschaften · Erläuterung der Regeln der Namen und Eigenschaften · Erläuterung der Maßstäbe der Eigenschaften · Klärung der Bedeutung von „aṣ-Ṣūrah" im Ausspruch „Allah erschuf Ādam nach Seinem Ebenbild" · Die Auswirkung des Glaubens an Allahs Eigenschaften auf das Verhalten des Dieners.
 
 *3. Die übrigen Säulen des Īmān:* Die Wirklichkeit der Engel · Der Glaube an die Bücher zwischen der Bejahung der Salaf und der Verneinung der Ahl al-Kalām · Die glaubensbezogenen Untersuchungen zum Glauben an die Gesandten · Der Glaube an das, was nach dem Tod kommt · Die Grundregeln der Ahl al-Aṯar im Glauben an den Qadar.
 
@@ -54,17 +54,17 @@ Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher un
 0. [Über den Autor](#über-den-autor)
 1. [Einleitung (al-Muqaddimah)](#einleitung)
 2. [Die ʿAqīdah und ihre Einteilung](#aqida-einteilung)
-3. [Die Quellen der Herleitung (Maṣādir at-Talaqqī)](#quellen)
-4. [Tor 1 – Die sechs Säulen des Īmān](#tor-1)
-   - [1. Säule: Īmān billāh](#pillar-1)
-   - [2. Säule: Īmān bil-Malāʾikah](#pillar-2)
-   - [3. Säule: Īmān bil-Kutub](#pillar-3)
-   - [4. Säule: Īmān bir-Rusul](#pillar-4)
-   - [5. Säule: Īmān bil-Yawm al-Ākhir](#pillar-5)
-   - [6. Säule: Īmān bil-Qadar](#pillar-6)
-5. [Tor 2 – Der Musammā des Īmān](#tor-2)
-6. [Aṣ-Ṣaḥābah](#sahaba)
-7. [Al-Imāmah](#imama)
+3. [Die Quellen der ʿAqīdah (Maṣādir at-Talaqqī)](#quellen)
+4. [Tor 1 – Die sechs Säulen des Glaubens](#tor-1)
+   - [1. Säule: Glaube an Allah](#pillar-1)
+   - [2. Säule: Glaube an die Engel](#pillar-2)
+   - [3. Säule: Glaube an die Bücher](#pillar-3)
+   - [4. Säule: Glaube an die Gesandten](#pillar-4)
+   - [5. Säule: Glaube an den Jüngsten Tag](#pillar-5)
+   - [6. Säule: Glaube an die göttliche Vorherbestimmung](#pillar-6)
+5. [Tor 2 – Die Benennung des Glaubens](#tor-2)
+6. [Die Prophetengefährten](#sahaba)
+7. [Das Imamat](#imama)
 8. [Schlussworte](#schluss)
 9. [Terminologie-Glossar](#glossar)
 
@@ -72,13 +72,13 @@ Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher un
 
 ## Einleitung (al-Muqaddimah) {#einleitung}
 
-Alles Lob gebührt Allah, dem Herrn der Welten, und Allah segne und schenke Heil unserem Propheten Muḥammad, seiner Familie und allen seinen Gefährten.
+Alles Lob gebührt Allah, dem Herrn der Welten, und Allah segne unseren Propheten Muḥammad und schenke ihm Frieden, ebenso seiner Familie und allen seinen Gefährten.
 
 **Und nun zum Eigentlichen (ammā baʿd):**
 
 Dies sind Lektionen in der ʿAqīdah, die ich für die allgemeine Ummah verfasst habe – als Erleichterung für sie, um zu verstehen, was ihnen obliegt. Es sind – so Allah, der Erhabene, will – leicht zugängliche Lektionen, in denen es keine (übermäßige) Vertiefung gibt, in denen die Gegner von Ahl as-Sunnah wal-Jamāʿah nicht erwähnt werden und auch nicht ihre Zweifelseinwände (šubuhāt). Vielmehr habe ich mich auf wichtige Fragen der ʿAqīdah beschränkt – entnommen aus dem Buch Allahs, aus der Sunnah des Gesandten Allahs ﷺ und aus dem, worüber Konsens (Iǧmāʿ) der Salaf der Ummah besteht.
 
-Die Sorgfalt um die ʿAqīdah ist für jeden Muslim Pflicht, denn in ihr liegt die Rettung des Menschen – im Diesseits vor den Zweifeln und den Begierden, und im Jenseits vor der Strafe. In ihr liegt zudem die Verwirklichung des Zwecks, um dessentwillen die beiden Lasten (Menschen und Dschinn, *aṯ-ṯaqalān*) erschaffen wurden.
+Die Sorgfalt um die ʿAqīdah ist für jeden Muslim Pflicht, denn in ihr liegt die Rettung des Menschen – im Diesseits vor den Zweifeln und den Begierden, und im Jenseits vor der Strafe. In ihr liegt zudem die Verwirklichung des Zwecks, um dessentwillen Mensch und Dschinn (*aṯ-ṯaqalān*) erschaffen wurden.
 
 Die Sorgfalt um die ʿAqīdah gehört zu den Kennzeichen der Leute des Glaubens – im Gegensatz zu den Leuten des Unglaubens, über die Allah sagt:
 
@@ -100,22 +100,22 @@ Daher ist es für die Muslime Pflicht, sich um die ʿAqīdah zu kümmern: im Ver
 
 ```html
 <div class="flow">
-  <div class="flow-caption">Abb. 1 — Übersicht der Tore der ʿAqīdah (مجمل أبواب العقيدة)</div>
-  <div class="flow-root"><span class="ns">مجمل أبواب العقيدة</span>Gesamtübersicht der Tore der ʿAqīdah</div>
+  <div class="flow-caption">Abb. 1 — Übersicht der Tore der ʿAqīdah</div>
+  <div class="flow-root">Gesamtübersicht der Tore der ʿAqīdah</div>
   <div class="flow-down"></div>
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
-    <div class="flow-col"><div class="flow-node accent"><span class="ns">الباب الأول</span><span class="nt">Tor 1 — Arkān al-Īmān</span>Die sechs Säulen des Īmān:
-      <ul><li>Īmān billāh – Glaube an Allah (Rubūbiyyah – Herrschaft · Asmāʾ waṣ-Ṣifāt – Namen u. Eigenschaften · Ulūhiyyah – Anbetung)</li><li>Īmān bil-Malāʾikah</li><li>Īmān bil-Kutub</li><li>Īmān bir-Rusul</li><li>Īmān bil-Yawm al-Ākhir</li><li>Īmān bil-Qadar</li></ul></div></div>
-    <div class="flow-col"><div class="flow-node accent"><span class="ns">الباب الثاني</span><span class="nt">Tor 2 — Anschließendes</span>Was sich an die Säulen anschließt:
-      <ul><li>Musammā al-Īmān (Benennung des Īmān)</li><li>Aṣ-Ṣaḥābah</li><li>Al-Imāmah</li></ul></div></div>
+    <div class="flow-col"><div class="flow-node accent"><span class="nt">Tor 1 — Die Säulen des Glaubens</span>Die sechs Säulen des Glaubens:
+      <ul><li>Glaube an Allah (Herrschaft · Namen und Eigenschaften · Anbetung)</li><li>Glaube an die Engel</li><li>Glaube an die Bücher</li><li>Glaube an die Gesandten</li><li>Glaube an den Jüngsten Tag</li><li>Glaube an die göttliche Vorherbestimmung</li></ul></div></div>
+    <div class="flow-col"><div class="flow-node accent"><span class="nt">Tor 2 — Anschließendes</span>Was sich an die Säulen anschließt:
+      <ul><li>Die Benennung des Glaubens</li><li>Die Prophetengefährten</li><li>Das Imamat</li></ul></div></div>
   </div>
 </div>
 ```
 
 Dies ist ein allgemeiner Überblick über das Tor des Glaubens (bāb al-iʿtiqād) und über die Fragen, die darunter fallen.
 
-Diese Glaubensfragen haben eine Wirkung auf das Verhalten (Sulūk) des Dieners. Wenn der Diener eine korrekte Überzeugung hegt und dies mit vollkommener Gewissheit verinnerlicht, dann bringt es Liebe zu Allah ﷻ, Hoffnung auf Ihn und Furcht vor Ihm hervor; so wird sein Leben gerade, und er wird in seinem Diesseits und Jenseits glücklich.
+Diese Glaubensfragen haben eine Wirkung auf das Verhalten (Sulūk) des Dieners. Wenn der Diener eine korrekte Überzeugung hegt und dies mit vollkommener Gewissheit verinnerlicht, dann bringt es Liebe zu Allah ﷻ, Hoffnung auf Ihn und Furcht vor Ihm hervor; so wird sein Leben standhaft, und er wird in seinem Diesseits und Jenseits glücklich.
 
 **Zum Beispiel:** Wenn der Diener weiß, was Allah ﷻ an Namen und Eigenschaften zukommt – dass Er barmherzig ist, dass Er sich Seinem Diener nähert, wenn dieser sich Ihm nähert, und dass Er ﷻ zum untersten Himmel herabsteigt und spricht:
 
@@ -136,32 +136,32 @@ Diese Glaubensfragen haben eine Wirkung auf das Verhalten (Sulūk) des Dieners. 
 
 ---
 
-## Die Quellen der Herleitung (Maṣādir at-Talaqqī) {#quellen}
+## Die Quellen der ʿAqīdah (Maṣādir at-Talaqqī) {#quellen}
 
 ```html
 <div class="flow">
-  <div class="flow-caption">Abb. 2 — Die Herleitungsquellen bei Ahl as-Sunnah wal-Jamāʿah (مصدر التلقي)</div>
-  <div class="flow-root"><span class="ns">مصدر التلقي عند أهل السنة والجماعة</span>Quelle der Herleitung bei Ahl as-Sunnah wal-Jamāʿah</div>
+  <div class="flow-caption">Abb. 2 — Die Quellen der ʿAqīdah bei Ahl as-Sunnah wal-Jamāʿah (مصدر التلقي)</div>
+  <div class="flow-root"><span class="ns">مصدر التلقي عند أهل السنة والجماعة</span>Quelle der ʿAqīdah bei Ahl as-Sunnah wal-Jamāʿah</div>
   <div class="flow-down"></div>
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node"><span class="ns">الكتاب</span><span class="nt">Al-Qurʾān</span>Das Buch Allahs</div></div>
-    <div class="flow-col"><div class="flow-node"><span class="ns">السنة</span><span class="nt">As-Sunnah</span>verbal · faktisch · billigend
+    <div class="flow-col"><div class="flow-node"><span class="ns">السنة</span><span class="nt">As-Sunnah</span>Wort · Tat · Billigung
       <ul><li>Mutawātir</li><li>Āḥād</li></ul></div></div>
     <div class="flow-col"><div class="flow-node"><span class="ns">الإجماع</span><span class="nt">Al-Iǧmāʿ</span>Konsens der Muǧtahidūn der Ummah</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-row"><div class="flow-col"><div class="flow-node plain"><span class="nt">Vor Irrtum rettende Grundregel (قاعدة منجية من الضلال)</span>„Das Verständnis von Qurʾān und Sunnah muss mit dem Verständnis der rechtschaffenen Salaf übereinstimmen."</div></div></div>
+  <div class="flow-row"><div class="flow-col"><div class="flow-node plain"><span class="nt">Vor Irrtum rettende Grundregel (قاعدة منجية من الضلال)</span>„Das Verständnis von Qurʾān und Sunnah muss mit dem Verständnis der rechtschaffenen Salaf (der ersten drei Generationen) übereinstimmen."</div></div></div>
 </div>
 ```
 
-Mit „Quelle der Herleitung" (maṣdar at-talaqqī) ist gemeint: Woher wird die ʿAqīdah entnommen?
+Mit „Quelle der ʿAqīdah" (maṣdar at-talaqqī) ist gemeint: Woher wird die ʿAqīdah entnommen?
 
-Die Quelle der Herleitung bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zurück:
+Die Quelle der ʿAqīdah bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zurück:
 
-**Erstens: Al-Kitāb (das Buch).** Damit meinen wir den Qurʾān; denn der Qurʾān ist die Rede Allahs ﷻ – wirklich und wahrhaftig (ḥaqīqatan).
+**Erstens: Al-Kitāb (das Buch).** Damit meinen wir den Qurʾān; denn der Qurʾān ist die wirkliche Rede von Allah ﷻ.
 
-**Zweitens: As-Sunnah.** Damit meinen wir die Sunnah des Gesandten Allahs ﷺ – ob sie verbal (qawliyyah), faktisch (fiʿliyyah), billigend (taqrīriyyah) oder unterlassend (tarkiyyah) ist. Mit der Sunnah wird in der ʿAqīdah argumentiert, ob sie nun mutawātir (vielfach überliefert) oder vom Typ der Āḥād (Einzelüberlieferung) ist; denn Ahl as-Sunnah wal-Jamāʿah unterscheiden beim Argumentieren in der ʿAqīdah nicht zwischen Mutawātir und Āḥād. So wie sie mit dem Mutawātir argumentieren, argumentieren sie auch mit dem Āḥād.
+**Zweitens: As-Sunnah.** Damit meinen wir die Sunnah des Gesandten Allahs ﷺ – ob sie ein Wort (qawliyyah), eine Tat (fiʿliyyah), eine Billigung (taqrīriyyah) oder ein Unterlassen (tarkiyyah) ist. Mit der Sunnah wird in der ʿAqīdah argumentiert, ob sie nun mutawātir (vielfach überliefert) oder vom Typ der Āḥād (Einzelüberlieferung) ist; denn Ahl as-Sunnah wal-Jamāʿah unterscheiden beim Argumentieren in der ʿAqīdah nicht zwischen Mutawātir und Āḥād. So wie sie mit dem Mutawātir argumentieren, argumentieren sie auch mit dem Āḥād.
 
 **Drittens: Al-Iǧmāʿ (der Konsens).** Das ist die Übereinstimmung der Muǧtahidūn (qualifizierten Gelehrten) der Ummah über eine religiöse Angelegenheit nach dem Tod des Gesandten Allahs ﷺ.
 
@@ -173,7 +173,7 @@ Die Quelle der Herleitung bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zu
 
 Was den Iǧmāʿ angeht, so geht auch er auf das Buch und die Sunnah zurück; denn der Iǧmāʿ muss notwendigerweise auf einem Beweis aus dem Buch und der Sunnah beruhen.
 
-Dies sind die Quellen der Herleitung bei Ahl as-Sunnah wal-Jamāʿah.
+Dies sind die Quellen der ʿAqīdah bei Ahl as-Sunnah wal-Jamāʿah.
 
 **Es gibt zudem eine wichtige, vor dem Irrtum rettende Grundregel:** Wer diese Grundregel nicht beachtet, fällt unweigerlich in den Irrtum und gehört weder zur geretteten Gruppe (al-firqah an-nāǧiyah) noch zur siegreichen Gemeinschaft (aṭ-ṭāʾifah al-manṣūrah). Sie lautet:
 
@@ -205,7 +205,7 @@ Mit dieser Grundregel haben die Ahl as-Sunnah für uns eine Waage (mīzān) aufg
 
 ---
 
-## Tor 1 – Die sechs Säulen des Īmān {#tor-1}
+## Tor 1 – Die sechs Säulen des Glaubens {#tor-1}
 
 **Das erste Tor – die sechs Säulen des Īmān:** Es ist das, was im Ḥadīṯ des Ǧibrīl ﷺ überliefert wurde, als er den Propheten ﷺ über den Īmān befragte und dieser sagte:
 
@@ -225,14 +225,14 @@ Mit dieser Grundregel haben die Ahl as-Sunnah für uns eine Waage (mīzān) aufg
 
 ---
 
-## 1. Säule: Īmān billāh – Der Glaube an Allah {#pillar-1}
+## 1. Säule: Der Glaube an Allah {#pillar-1}
 
 ```html
 <div class="flow">
   <div class="flow-caption">Abb. 3 — Der Glaube an Allah (الإيمان بالله)</div>
   <div class="flow-root"><span class="ns">الإيمان بالله</span>Der Glaube an Allah</div>
   <div class="flow-down"></div>
-  <div class="flow-sub">beruht auf dem Tawḥīd Allahs in (يقوم على توحيد الله في):</div>
+  <div class="flow-sub">beruht auf der Einzigkeit Allahs ﷻ in:</div>
   <div class="flow-down"></div>
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
@@ -252,7 +252,7 @@ Der Glaube an Allah beruht auf dem Tawḥīd Allahs ﷻ. Kein Glaube ist gültig
 - **Das Zweite:** Der Tawḥīd Allahs in Seinen Namen und Eigenschaften (al-Asmāʾ waṣ-Ṣifāt).
 - **Das Dritte:** Der Tawḥīd Allahs in Seiner Anbetungswürdigkeit (al-Ulūhiyyah).
 
-**Erstens: Der Tawḥīd Allahs in Seiner Rubūbiyyah** – im Sinne von: Allah in Seinen Handlungen (Glory be to Him, *subḥānahu*) als Einzigen anzuerkennen.
+**Erstens: Der Tawḥīd Allahs in Seiner Rubūbiyyah** – im Sinne von: Allah in Seinen Handlungen (erhaben ist Er) als Einzigen anzuerkennen.
 - *Beispiel:* die Überzeugung, dass der Schöpfer Allah allein ist, dass der Versorger Allah allein ist und dass der Lebensgebende Allah allein ist – wir erkennen also Allah ﷻ in Seinen Handlungen als Einzigen an.
 
 **Zweitens: Der Tawḥīd Allahs in Seinen Namen und Eigenschaften** – im Sinne von: Allah in Seinen Namen und Eigenschaften als Einzigen anzuerkennen.
@@ -328,9 +328,9 @@ Wer also Festigung und Nachfolge-Herrschaft auf Erden will, dem obliegt die Verw
     <div class="flow-col"><div class="flow-node"><span class="ns">إفراد الله بأفعاله</span><span class="nt">Allah allein in Seinen Handlungen</span>Erschaffung · Herrschaft (Mulk) · Lenkung (Tadbīr)</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض توحيد الربوبية — Nullifiers des Rubūbiyyah-Tawḥīd</div>
+  <div class="flow-sub">نواقض توحيد الربوبية — Vernichter des Rubūbiyyah-Tawḥīd</div>
   <div class="flow-row">
-    <div class="flow-col"><div class="flow-node plain">Leugnen der Existenz Allahs nach außen hin (إنكار وجود الله في الظاهر)</div></div>
+    <div class="flow-col"><div class="flow-node plain">Leugnen der Existenz Allahs (إنكار وجود الله في الظاهر)</div></div>
     <div class="flow-col"><div class="flow-node plain">Behauptung eines unabhängig Handelnden neben Allah (إثبات فاعل مستقل مع الله)</div></div>
     <div class="flow-col"><div class="flow-node plain">Zuschreibung der Gnade an einen anderen als Allah in eigenständiger Weise (إضافة النعمة لغير الله)</div></div>
   </div>
@@ -378,27 +378,27 @@ Die Rubūbiyyah Allahs ﷻ beruht also auf: der Existenz Allahs und der Anerkenn
 >
 > [al-ʿAnkabūt: 61]
 
-Dennoch beteten sie neben Allah anderes an. Sie erkannten die Rubūbiyyah Allahs an, dass Er ﷻ der Schöpfer, der Eigentümer und der Versorger ist – und trotzdem bekämpfte sie der Prophet ﷺ. Das ist so, weil dieser Tawḥīd allein nicht genügt.
+Dennoch beteten sie neben Allah anderes an. Sie erkannten die Rubūbiyyah Allahs an, dass Er ﷻ der Schöpfer, der Eigentümer und der Versorger ist – und trotzdem widersetzte sich ihnen der Prophet ﷺ. Das ist so, weil dieser Tawḥīd allein nicht genügt.
 
 So müssen wir diese **wichtige Sache** beachten: dass der Tawḥīd ar-Rubūbiyyah eine Grundlage ist, die die Götzendiener der Araber anerkannten, und dass er allein nicht genügt für den Glauben an Allah ﷻ.
 
-#### Die Nullifiers (Nawāqiḍ) des Tawḥīd ar-Rubūbiyyah
+#### Die Vernichter (Nawāqiḍ) des Tawḥīd ar-Rubūbiyyah
 
-**Bedeutung:** Welches ist die Sache, die, wenn der Diener sie begeht, ihn nicht zum Bekenner der Einheit Allahs ﷻ macht, und durch die sein Tawḥīd Allahs in Seiner Rubūbiyyah ungültig wird? Diese Nullifiers sind:
+**Bedeutung:** Welches ist die Sache, die, wenn der Diener sie begeht, ihn nicht zum Bekenner der Einheit Allahs ﷻ macht, und durch die sein Tawḥīd Allahs in Seiner Rubūbiyyah ungültig wird? Diese Vernichter sind:
 
 - **Erstens:** Das Leugnen der Existenz Allahs ﷻ nach außen hin (im Offenkundigen).
 - **Zweitens:** Die Behauptung eines unabhängig Handelnden (fāʿil mustaqill) neben Allah ﷻ.
 - **Drittens:** Die Zuschreibung der Gnade (Wohltat) an einen anderen als Allah ﷻ in der Weise der Eigenständigkeit (istiqlāl).
 
-**Der erste Nullifier: Das Leugnen der Existenz Allahs nach außen hin.** Dass jemand leugnet, dass Allah existiert – wie es bei Firʿawn (Pharao) geschah, als er sagte: *﴿أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ﴾* „Ich bin euer höchster Herr" [an-Nāziʿāt: 24]. Dies ist ein Leugnen nach außen hin; denn Firʿawn leugnete die Existenz Allahs nicht mit seinem Herzen – der Beweis ist Sein Wort, des Erhabenen: *﴿وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ﴾* „Und sie verleugneten sie, obwohl sie selbst von ihr überzeugt waren" [an-Naml: 14]. Der Grund seines Verleugnens der Existenz Allahs war: *﴿ظُلْمًا وَعُلُوًّا﴾* „aus Ungerechtigkeit und Überheblichkeit" [an-Naml: 14].
+**Der erste Vernichter: Das Leugnen der Existenz Allahs nach außen hin.** Dass jemand leugnet, dass Allah existiert – wie es bei Firʿawn (Pharao) geschah, als er sagte: *﴿أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ﴾* „Ich bin euer höchster Herr" [an-Nāziʿāt: 24]. Dies ist ein Leugnen nach außen hin; denn Firʿawn leugnete die Existenz Allahs nicht mit seinem Herzen – der Beweis ist Sein Wort, des Erhabenen: *﴿وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ﴾* „Und sie verleugneten sie, obwohl sie selbst von ihr überzeugt waren" [an-Naml: 14]. Der Grund seines Verleugnens der Existenz Allahs war: *﴿ظُلْمًا وَعُلُوًّا﴾* „aus Ungerechtigkeit und Überheblichkeit" [an-Naml: 14].
 
 Und ebenso geschah es bei den Atheisten (al-malāḥidah), die die Existenz Allahs nach außen hin leugnen, in Wirklichkeit aber in ihrem Inneren die Existenz Allahs ﷻ bejahen. Es überkommen sie Zweifelseinwände (šubuhāt), die ihre Herzen umhüllen, sodass es einem von ihnen scheint, es gebe keinen Herrn für die Welt, sondern sie sei zufällig (ṣudfah) entstanden. Je stärker diese Zweifel werden und sich in ihren Herzen festsetzen, desto offener zeigen sie das Leugnen Allahs ﷻ; und je schwächer sie werden, desto mehr schwanken sie, zweifeln, und manchmal erwacht die Fiṭrah in ihren Herzen, sodass sie die Existenz Allahs ﷻ bejahen, auch wenn sie es nicht offen aussprechen.
 
-**Der zweite Nullifier: Die Behauptung eines unabhängig Handelnden neben Allah.** Dass jemand behauptet, es gebe einen Schöpfer neben Allah, oder es gebe einen Eigentümer neben Allah, oder es gebe einen Lenkenden, der unabhängig (mustaqill) neben Allah lenkt und nicht unter die Lenkung Allahs fällt und nicht unter die Herrschaft Allahs. Wer einen unabhängig Handelnden neben Allah behauptet, hat seinen Tawḥīd zunichte gemacht.
+**Der zweite Vernichter: Die Behauptung eines unabhängig Handelnden neben Allah.** Dass jemand behauptet, es gebe einen Schöpfer neben Allah, oder es gebe einen Eigentümer neben Allah, oder es gebe einen Lenkenden, der unabhängig (mustaqill) neben Allah lenkt und nicht unter die Lenkung Allahs fällt und nicht unter die Herrschaft Allahs. Wer einen unabhängig Handelnden neben Allah behauptet, hat seinen Tawḥīd zunichte gemacht.
 - *Beispiel:* Würde ein Mensch behaupten, dass die Sterne von sich aus auf die Erde einwirken, so hätte er damit seinen Tawḥīd Allahs in der Rubūbiyyah zunichte gemacht. Ebenso, wer in den Sternzeichen (al-abrāǧ) glaubt, dass sie von sich aus wirken, ohne Allah ﷻ – er blickt in die Sternzeichen, um aus ihnen auf seinen Zustand und seine Zukunft zu schließen, im Glauben, dass sie von sich aus, ohne Allah ﷻ, einwirken. Dies ist ein Zunichtemachen des Tawḥīd ar-Rubūbiyyah.
 - *Weitere Beispiele:* Die Behauptung, dass es Dinge gibt, die unabhängig auf den Menschen einwirken – wie wenn manche Menschen meinen, dass diese Krankheit von sich aus wirkt und die Ansteckung sich von selbst überträgt; dies ist ein Zunichtemachen des Tawḥīd ar-Rubūbiyyah. Ebenso, wenn jemand sein Haus verlässt und etwas sieht, das er verabscheut, und ein böses Omen (yatašāʾam) darin sieht, im Glauben, es wirke von sich aus, unabhängig von Allah – auch das macht den Tawḥīd ar-Rubūbiyyah zunichte.
 
-**Der dritte Nullifier: Die Zuschreibung der Gnade an einen anderen als Allah in der Weise der Eigenständigkeit.** Wie wenn jemand sagt: „Wäre der und der (Heilige/walī) nicht gewesen, wäre ich krank geworden" – im Glauben, der walī sei eigenständig fähig zur Einwirkung, und schreibt ihm die Gnade zu. Dies gehört zu den Nullifiers des Tawḥīd ar-Rubūbiyyah.
+**Der dritte Vernichter: Die Zuschreibung der Gnade an einen anderen als Allah in der Weise der Eigenständigkeit.** Wie wenn jemand sagt: „Wäre der und der (Heilige/walī) nicht gewesen, wäre ich krank geworden" – im Glauben, der walī sei eigenständig fähig zur Einwirkung, und schreibt ihm die Gnade zu. Dies gehört zu den Vernichter des Tawḥīd ar-Rubūbiyyah.
 
 ---
 
@@ -414,18 +414,18 @@ Und ebenso geschah es bei den Atheisten (al-malāḥidah), die die Existenz Alla
   <div class="flow-arrow">▼</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node"><span class="nt">1. Grundlage</span>Bejahen, was Allah Sich selbst zuschrieb, und verneinen, was Er von Sich verneinte (إثبات ما أثبته الله لنفسه)</div></div>
-    <div class="flow-col"><div class="flow-node"><span class="nt">2. Grundlage</span>Verneinen jeder Ähnlichkeit in den Eigenheiten (نفي المماثلة في الخصائص)</div></div>
+    <div class="flow-col"><div class="flow-node"><span class="nt">2. Grundlage</span>Verneinen jeder Ähnlichkeit – die Einzigkeit Allahs in Seinen Eigenschaften (نفي المماثلة في الخصائص)</div></div>
     <div class="flow-col"><div class="flow-node"><span class="nt">3. Grundlage</span>Verzicht auf das Erstreben der Art und Weise (قطع الطمع عن معرفة الكيفية)</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض توحيد الأسماء والصفات — Nullifiers</div>
+  <div class="flow-sub">نواقض توحيد الأسماء والصفات — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain"><span class="nt">at-Taʿṭīl (التعطيل)</span>Verneinung der Eigenschaften
       <ul><li>at-Taʾwīl (التأويل)</li><li>at-Tafwīḍ (التفويض)</li></ul></div></div>
     <div class="flow-col"><div class="flow-node plain"><span class="nt">at-Tamṯīl (التمثيل)</span>Vergleich mit dem Geschaffenen</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-row"><div class="flow-col"><div class="flow-node accent">Beide Nullifiers werden zusammengefasst unter: al-Ilḥād (الإلحاد) — die Abweichung</div></div></div>
+  <div class="flow-row"><div class="flow-col"><div class="flow-node accent">Beide Vernichter werden zusammengefasst unter: al-Ilḥād (الإلحاد) — die Abweichung</div></div></div>
 </div>
 ```
 
@@ -437,7 +437,7 @@ Und ebenso geschah es bei den Atheisten (al-malāḥidah), die die Existenz Alla
 - *Beispiel für das Bejahen:* Sein Wort, des Erhabenen, in den Namen: *﴿ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ﴾* „Allah – es gibt keinen Gott außer Ihm, dem Lebendigen, dem Beständigen" [al-Baqarah: 255] – Er bejahte „al-Ḥayy" (den Lebendigen) und „al-Qayyūm" (den Beständigen). Und Sein Wort in den Eigenschaften: *﴿وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ﴾* „Und dein Herr ist der Unbedürftige, voll der Barmherzigkeit" [al-Anʿām: 133] – Er bejahte für Sich die Barmherzigkeit (ar-raḥmah).
 - *Beispiel für das Verneinen:* Sein Wort, des Erhabenen: *﴿لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ﴾* „Ihn überkommt weder Schlummer noch Schlaf" [al-Baqarah: 255] – Er verneinte von Sich den Schlummer (as-sinah) und den Schlaf (an-nawm).
 
-**Die zweite Grundlage: Das Verneinen jeder Ähnlichkeit in den Eigenheiten (nafy al-mumāṯalah fil-ḫaṣāʾiṣ).** Ihre Bedeutung: Was Allah Sich selbst zuschrieb, das muss der Diener mit dem Verneinen der Ähnlichkeit bejahen. So sagt er etwa: Das Leben Allahs ﷻ ist nicht wie das Leben der Geschöpfe, die Barmherzigkeit Allahs ﷻ ist nicht wie die Barmherzigkeit der Geschöpfe, und das Sich-Erheben Allahs ﷻ (al-istiwāʾ) ist nicht wie das Sich-Erheben der Geschöpfe. Denn Allah ﷻ hat die Eigenschaft Sich selbst zugeschrieben, sodass sie Ihm eigentümlich ist und niemand mit Ihm darin teilhat. Und wegen Seines Wortes, des Erhabenen: *﴿لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ﴾* „Nichts ist Ihm gleich, und Er ist der Allhörende, der Allsehende" [aš-Šūrā: 11].
+**Die zweite Grundlage: Das Verneinen jeder Ähnlichkeit – die Wahrung der Einzigkeit Allahs in Seinen Eigenschaften (nafy al-mumāṯalah fil-ḫaṣāʾiṣ).** Ihre Bedeutung: Was Allah Sich selbst zuschrieb, das muss der Diener mit dem Verneinen der Ähnlichkeit bejahen. So sagt er etwa: Das Leben Allahs ﷻ ist nicht wie das Leben der Geschöpfe, die Barmherzigkeit Allahs ﷻ ist nicht wie die Barmherzigkeit der Geschöpfe, und das Sich-Erheben Allahs ﷻ (al-istiwāʾ) ist nicht wie das Sich-Erheben der Geschöpfe. Denn Allah ﷻ hat die Eigenschaft Sich selbst zugeschrieben, sodass sie Ihm eigentümlich ist und niemand mit Ihm darin teilhat. Und wegen Seines Wortes, des Erhabenen: *﴿لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ﴾* „Nichts ist Ihm gleich, und Er ist der Allhörende, der Allsehende" [aš-Šūrā: 11].
 
 Allah ﷻ ist es, der für Sich die Eigenschaften bejaht hat, und Er ist es, der gesagt hat: *﴿لَيْسَ كَمِثْلِهِۦ شَىْءٌ﴾*. Es gibt keinen Widerspruch zwischen beidem: Wir bejahen die Eigenschaften, ohne Ähnlichkeit – und dies ist, wozu Allah die Ahl as-Sunnah wal-Jamāʿah leitete.
 
@@ -446,15 +446,15 @@ Allah ﷻ ist es, der für Sich die Eigenschaften bejaht hat, und Er ist es, der
 
 **Dies sind die drei Grundlagen, auf denen der Tawḥīd al-Asmāʾ waṣ-Ṣifāt beruht.** Wer also eine dieser Grundlagen verletzt, hat seinen Tawḥīd Allahs in Seinen Namen und Eigenschaften zunichtegemacht.
 
-#### Die Nullifiers (Nawāqiḍ) des Tawḥīd al-Asmāʾ waṣ-Ṣifāt
+#### Die Vernichter (Nawāqiḍ) des Tawḥīd al-Asmāʾ waṣ-Ṣifāt
 
-**Die Nullifiers gehen auf zwei Dinge zurück:**
+**Die Vernichter gehen auf zwei Dinge zurück:**
 - **Das Erste:** at-Tamṯīl (der Vergleich).
 - **Das Zweite:** at-Taʿṭīl (die Verneinung/Entleerung).
 
-**Der erste Nullifier: at-Tamṯīl.** Das ist das Bejahen der Eigenschaft für Allah zusammen mit dem Bejahen der Ähnlichkeit, sodass jemand sagt: Das Antlitz Allahs (waǧh) ist wie das Antlitz des Geschöpfs, und das Sich-Erheben Allahs ist wie das Sich-Erheben des Geschöpfs. **Das Bejahen der Ähnlichkeit zwischen Allah und Seinen Geschöpfen ist Unglaube (kufr);** denn das Geschöpf ist mangelhaft (nāqiṣ), und das Bejahen der Ähnlichkeit zwischen dem Vollkommenen und dem Mangelhaften macht den Vollkommenen mangelhaft – und das Bejahen von Mangel für Allah ist Unglaube. Denn Allah ﷻ sagt: *﴿فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ﴾* „So führt für Allah keine Gleichnisse an" [an-Naḥl: 74], und Er sagt: *﴿لَيْسَ كَمِثْلِهِۦ شَىْءٌ﴾* „Nichts ist Ihm gleich" [aš-Šūrā: 11]. Und jede Gruppe, die Ahl as-Sunnah im Tor der Namen und Eigenschaften widersprach, ist in den Tamṯīl (Vergleich) gefallen.
+**Der erste Vernichter: at-Tamṯīl.** Das ist das Bejahen der Eigenschaft für Allah zusammen mit dem Bejahen der Ähnlichkeit, sodass jemand sagt: Das Antlitz Allahs (waǧh) ist wie das Antlitz des Geschöpfs, und das Sich-Erheben Allahs ist wie das Sich-Erheben des Geschöpfs. **Das Bejahen der Ähnlichkeit zwischen Allah und Seinen Geschöpfen ist Unglaube (kufr);** denn das Geschöpf ist mangelhaft (nāqiṣ), und das Bejahen der Ähnlichkeit zwischen dem Vollkommenen und dem Mangelhaften macht den Vollkommenen mangelhaft – und das Bejahen von Mangel für Allah ist Unglaube. Denn Allah ﷻ sagt: *﴿فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ﴾* „So führt für Allah keine Gleichnisse an" [an-Naḥl: 74], und Er sagt: *﴿لَيْسَ كَمِثْلِهِۦ شَىْءٌ﴾* „Nichts ist Ihm gleich" [aš-Šūrā: 11]. Und jede Gruppe, die Ahl as-Sunnah im Tor der Namen und Eigenschaften widersprach, ist in den Tamṯīl (Vergleich) gefallen.
 
-**Der zweite Nullifier: at-Taʿṭīl.** Das ist das Leugnen der Namen Allahs ﷻ und Seiner Eigenschaften oder das Leugnen eines Teils davon, sodass jemand sagt: Allah erhebt sich nicht über Seinen Thron (ʿarš), und Allah hat kein Antlitz, das Ihm zukommt, und so weiter. Zu diesem Muʿaṭṭil (Verneiner) sagt man: Allah bejaht, und du verneinst?! Kennst du Allah besser oder Allah (Sich selbst)?! Der Muʿaṭṭil gleicht den Götzendienern, wie Allah über sie sagte: *﴿وَهُم يَكْفُرُونَ بِٱلرَّحْمَـٰنِ﴾* „Während sie ar-Raḥmān (den Allerbarmer) verleugnen" [ar-Raʿd: 30] – das heißt: Sie bejahen den Namen ar-Raḥmān nicht.
+**Der zweite Vernichter: at-Taʿṭīl.** Das ist das Leugnen der Namen Allahs ﷻ und Seiner Eigenschaften oder das Leugnen eines Teils davon, sodass jemand sagt: Allah erhebt sich nicht über Seinen Thron (ʿarš), und Allah hat kein Antlitz, das Ihm zukommt, und so weiter. Zu diesem Muʿaṭṭil (Verneiner) sagt man: Allah bejaht, und du verneinst?! Kennst du Allah besser oder Allah (Sich selbst)?! Der Muʿaṭṭil gleicht den Götzendienern, wie Allah über sie sagte: *﴿وَهُم يَكْفُرُونَ بِٱلرَّحْمَـٰنِ﴾* „Während sie ar-Raḥmān (den Allerbarmer) verleugnen" [ar-Raʿd: 30] – das heißt: Sie bejahen den Namen ar-Raḥmān nicht.
 
 **Und unter den Taʿṭīl fallen:** at-Taʾwīl (die Umdeutung) und at-Tafwīḍ (die Bedeutungs-Überantwortung).
 
@@ -463,9 +463,9 @@ Allah ﷻ ist es, der für Sich die Eigenschaften bejaht hat, und Er ist es, der
 
 - **Mit at-Tafwīḍ ist gemeint:** das Verneinen des offenkundigen Wortlauts des Textes zusammen mit dem Bejahen einer neuen Bedeutung, sodass jemand etwa sagt: *﴿ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ﴾* – al-istiwāʾ bedeutet nicht „die Erhabenheit", aber ich weiß nicht, was es bedeutet, Allah weiß am besten, was Er damit meint. **Und der Tafwīḍ ist nicht die Lehre (Maḏhab) von Ahl as-Sunnah;** vielmehr ist die Lehre der Ahl as-Sunnah, dass sie den offenkundigen Wortlaut des Textes bejahen, die Bedeutung (al-maʿnā) nicht überantworten (nicht für unbekannt erklären), sondern nur die Art und Weise (al-kayfiyyah) überantworten, weil sie auf das Erstreben ihrer Kenntnis verzichten.
 
-**Sowohl at-Taʾwīl als auch at-Tafwīḍ sind Taʿṭīl;** und der Taʿṭīl ist ein Nullifier des Tawḥīd al-Asmāʾ waṣ-Ṣifāt.
+**Sowohl at-Taʾwīl als auch at-Tafwīḍ sind Taʿṭīl;** und der Taʿṭīl ist ein Vernichter des Tawḥīd al-Asmāʾ waṣ-Ṣifāt.
 
-**Diese Nullifiers werden zusammengefasst unter: al-Ilḥād (die Abweichung).** Allah ﷻ sagt:
+**Diese Vernichter werden zusammengefasst unter: al-Ilḥād (die Abweichung).** Allah ﷻ sagt:
 
 > *﴿وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَـٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ﴾*
 >
@@ -519,7 +519,7 @@ Als dieser edle Gefährte erkannte, dass Allah mit dieser Eigenschaft beschriebe
     <div class="flow-col"><div class="flow-node"><span class="ns">معنى الإله: المعبود</span><span class="nt">Bedeutung von „Ilāh"</span>Lā ilāha illā Allāh = es gibt keinen wahrhaft Anzubetenden außer Allah</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض توحيد الألوهية — Nullifiers</div>
+  <div class="flow-sub">نواقض توحيد الألوهية — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain"><span class="nt">aš-Širk al-Aṣghar (الشرك الأصغر)</span>Definition · Beispiele · Urteile</div></div>
     <div class="flow-col"><div class="flow-node plain"><span class="nt">aš-Širk al-Akbar (الشرك الأكبر)</span>Definition · Beispiele · Ursachen · Urteile</div></div>
@@ -582,13 +582,13 @@ Der Tawḥīd beruht nicht auf der Verneinung allein; denn wenn wir nur sagen �
 
 **Und der Weg zur Kenntnis dessen, was Allah liebt und womit Er zufrieden ist, ist der Gesandte Allahs ﷺ:** Wenn der Prophet ﷺ berichtet, dass Allah diese Handlung liebt oder sie befohlen hat, so ist sie eine ʿIbādah.
 
-#### Die Nullifiers (Nawāqiḍ) des Tawḥīd al-Ulūhiyyah
+#### Die Vernichter (Nawāqiḍ) des Tawḥīd al-Ulūhiyyah
 
-**Die Nullifiers gehen auf zwei Dinge zurück:**
-- **Das Erste:** aš-Širk al-Akbar (der große Širk) – er ist ein Nullifier des Fundaments (aṣl) der Ulūhiyyah.
-- **Das Zweite:** aš-Širk al-Aṣghar (der kleine Širk) – er ist ein Nullifier der pflichtgemäßen Vollkommenheit (kamāl wāǧib) der Ulūhiyyah.
+**Die Vernichter gehen auf zwei Dinge zurück:**
+- **Das Erste:** aš-Širk al-Akbar (der große Širk) – er ist ein Vernichter des Fundaments (aṣl) der Ulūhiyyah.
+- **Das Zweite:** aš-Širk al-Aṣghar (der kleine Širk) – er ist ein Vernichter der pflichtgemäßen Vollkommenheit (kamāl wāǧib) der Ulūhiyyah.
 
-##### Der erste Nullifier: aš-Širk al-Akbar (der große Širk)
+##### Der erste Vernichter: aš-Širk al-Akbar (der große Širk)
 
 **Seine Definition:** Allah einen Ebenbürtigen (nidd) in der Anbetung beizugesellen. Der Prophet ﷺ hat ihn definiert, und es gibt keine Definition nach der Definition des Gesandten Allahs ﷺ. Der Prophet ﷺ wurde gefragt – wie im Ṣaḥīḥ:
 
@@ -667,7 +667,7 @@ Der Širk des Volkes Nūḥs hatte also seine Ursache in der Übertreibung in Be
 
 Und deshalb warne ich nachdrücklich vor dem großen Širk; denn seine Folgen sind verhängnisvoll, und niemand kann sich vor dem Širk hüten außer durch dessen Kenntnis.
 
-##### Der zweite Nullifier: aš-Širk al-Aṣghar (der kleine Širk)
+##### Der zweite Vernichter: aš-Širk al-Aṣghar (der kleine Širk)
 
 **Seine Definition:** Das, was der Gesetzgeber (aš-Šāriʿ) als Širk bezeichnet hat – oder was in dessen Bedeutung liegt –, und was ein Mittel zum großen Širk ist.
 
@@ -702,7 +702,7 @@ Dies ist die Beziehung zwischen den Kategorien des Tawḥīd hinsichtlich ihrer 
 
 ---
 
-## 2. Säule: Īmān bil-Malāʾikah – Der Glaube an die Engel {#pillar-2}
+## 2. Säule: Der Glaube an die Engel {#pillar-2}
 
 ```html
 <div class="flow">
@@ -718,7 +718,7 @@ Dies ist die Beziehung zwischen den Kategorien des Tawḥīd hinsichtlich ihrer 
   <div class="flow-down"></div>
   <div class="flow-row"><div class="flow-col"><div class="flow-node plain">Der Glaube an die Engel hat eine Wirkung auf die Überzeugung und das Verhalten des Dieners (للإيمان بالملائكة أثر على اعتقاد العبد وسلوكه)</div></div></div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض الإيمان بالملائكة — Nullifiers des Glaubens an die Engel</div>
+  <div class="flow-sub">نواقض الإيمان بالملائكة — Vernichter des Glaubens an die Engel</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain">Sie herabwürdigen (تنقص الملائكة)</div></div>
     <div class="flow-col"><div class="flow-node plain">Glauben, sie kennten das absolute Verborgene (يعلمون الغيب المطلق)</div></div>
@@ -765,22 +765,22 @@ Der Glaube an die Engel ist entweder ein allgemeiner Glaube (īmān muǧmal) ode
 
 Der Glaube an die Engel bringt die Liebe zu ihnen hervor; denn sie widersetzen sich Allah ﷻ nicht in dem, was Er ihnen befiehlt, und tun, was ihnen befohlen wird. Und wenn der Diener die Engel liebt, ahmt er sie nach und befeindet, wen sie befeinden. Ebenso bringt der Glaube an die Engel – mit ihrer Stärke und dem, was Allah ﷻ ihnen an Wissen und Macht in ihren Wesen gab – (die Erkenntnis) hervor, dass sie es nicht verdienen, angebetet zu werden; und wenn die Engel es nicht verdienen, angebetet zu werden, so verdient es das, was unter ihnen ist, erst recht nicht. Der Glaube an die Engel bringt zudem hinsichtlich des Verhaltens des Dieners das Nacheifern (al-iqtidāʾ) hervor: Da die Engel Allah gehorsam sind, eifern wir ihnen im Gehorsam gegenüber Allah ﷻ nach; ebenso fürchten wir Allah und sind uns Seiner Beobachtung bewusst, weil sie unsere Werke aufzeichnen und niederschreiben. Dies alles gehört zu den Früchten des Glaubens an die Engel.
 
-### Die Nullifiers (Nawāqiḍ) des Glaubens an die Engel
+### Die Vernichter (Nawāqiḍ) des Glaubens an die Engel
 
-**Der erste Nullifier: Der Glaube an einige von ihnen unter Ausschluss anderer,** wie es die Juden taten; denn sie glaubten an einige Engel unter Ausschluss anderer. Allah, der Erhabene, sagt: *﴿قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ﴾* „Sag: Wer (auch immer) Ǧibrīl feind ist – er ist es, der ihn (den Qurʾān) mit Allahs Erlaubnis auf dein Herz herabkommen ließ, das bestätigend, was vor ihm war, als Rechtleitung und frohe Botschaft für die Gläubigen" [al-Baqarah: 97], und Er sagt: *﴿مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّ لِّلْكَـٰفِرِينَ﴾* „Wer (auch immer) Allah, Seinen Engeln, Seinen Gesandten, Ǧibrīl und Mīkāl feind ist – so ist Allah den Ungläubigen feind" [al-Baqarah: 98].
+**Der erste Vernichter: Der Glaube an einige von ihnen unter Ausschluss anderer,** wie es die Juden taten; denn sie glaubten an einige Engel unter Ausschluss anderer. Allah, der Erhabene, sagt: *﴿قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ﴾* „Sag: Wer (auch immer) Ǧibrīl feind ist – er ist es, der ihn (den Qurʾān) mit Allahs Erlaubnis auf dein Herz herabkommen ließ, das bestätigend, was vor ihm war, als Rechtleitung und frohe Botschaft für die Gläubigen" [al-Baqarah: 97], und Er sagt: *﴿مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّ لِّلْكَـٰفِرِينَ﴾* „Wer (auch immer) Allah, Seinen Engeln, Seinen Gesandten, Ǧibrīl und Mīkāl feind ist – so ist Allah den Ungläubigen feind" [al-Baqarah: 98].
 
-**Der zweite Nullifier: Der Glaube, dass sie Töchter Allahs seien,** wie es manche Götzendiener der Araber glaubten. Allah, der Erhabene, sagt: *﴿أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا﴾* „Hat euer Herr etwa für euch die Söhne erwählt und Sich selbst unter den Engeln Töchter genommen? Ihr sagt da wahrlich ein gewaltiges Wort" [al-Isrāʾ: 40]. Und Er, der Erhabene, sagt: *﴿وَجَعَلُوا۟ ٱلْمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَـٰدُ ٱلرَّحْمَـٰنِ إِنَـٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَـٰدَتُهُمْ وَيُسْـَٔلُونَ﴾* „Und sie machen die Engel, die die Diener des Allerbarmers sind, zu weiblichen Wesen. Waren sie denn Zeugen ihrer Erschaffung? Ihr Zeugnis wird aufgeschrieben, und sie werden befragt werden" [az-Zuḫruf: 19].
+**Der zweite Vernichter: Der Glaube, dass sie Töchter Allahs seien,** wie es manche Götzendiener der Araber glaubten. Allah, der Erhabene, sagt: *﴿أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا﴾* „Hat euer Herr etwa für euch die Söhne erwählt und Sich selbst unter den Engeln Töchter genommen? Ihr sagt da wahrlich ein gewaltiges Wort" [al-Isrāʾ: 40]. Und Er, der Erhabene, sagt: *﴿وَجَعَلُوا۟ ٱلْمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَـٰدُ ٱلرَّحْمَـٰنِ إِنَـٰثًا ۚ أَشَهِدُوا۟ خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَـٰدَتُهُمْ وَيُسْـَٔلُونَ﴾* „Und sie machen die Engel, die die Diener des Allerbarmers sind, zu weiblichen Wesen. Waren sie denn Zeugen ihrer Erschaffung? Ihr Zeugnis wird aufgeschrieben, und sie werden befragt werden" [az-Zuḫruf: 19].
   > *Frage: Sind die Engel männlich oder weiblich?* Die Antwort: Die Engel sind Diener Allahs; wir beschreiben sie weder als männlich noch als weiblich, sondern sagen nur, wie unser Herr sagte: *﴿وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ﴾* „Und sie sagen: Der Allerbarmer hat Sich Kinder genommen. Preis sei Ihm! Nein, vielmehr sind es geehrte Diener" [al-Anbiyāʾ: 26].
 
-**Der dritte Nullifier: Der Glaube, dass sie etwas an Anbetung verdienten;** wer glaubt, dass die Engel etwas an Anbetung verdienen, dessen Glaube an die Engel ist zunichtegemacht. Allah ﷻ sagt: *﴿وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ﴾* „Und Er gebietet euch nicht, euch die Engel und die Propheten zu Herren zu nehmen. Sollte Er euch den Unglauben gebieten, nachdem ihr Muslime seid?" [Āl ʿImrān: 80]. Der Glaube, dass sie etwas an Anbetung verdienen, ist von Allah ﷻ als Kufr bezeichnet worden.
+**Der dritte Vernichter: Der Glaube, dass sie etwas an Anbetung verdienten;** wer glaubt, dass die Engel etwas an Anbetung verdienen, dessen Glaube an die Engel ist zunichtegemacht. Allah ﷻ sagt: *﴿وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ﴾* „Und Er gebietet euch nicht, euch die Engel und die Propheten zu Herren zu nehmen. Sollte Er euch den Unglauben gebieten, nachdem ihr Muslime seid?" [Āl ʿImrān: 80]. Der Glaube, dass sie etwas an Anbetung verdienen, ist von Allah ﷻ als Kufr bezeichnet worden.
 
-**Der vierte Nullifier: Der Glaube, dass sie das absolute Verborgene (al-ġayb al-muṭlaq) kennen;** dies widerspricht Seinem Wort ﷻ: *﴿قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ﴾* „Sag: Niemand in den Himmeln und auf der Erde kennt das Verborgene außer Allah; und sie merken nicht, wann sie auferweckt werden" [an-Naml: 65] – niemand kennt das absolute Verborgene außer unserem Herrn ﷻ. Und wie sollten sie das Verborgene kennen, wo doch unser Herr ﷻ sagte: *﴿وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ﴾* „Und Er lehrte Ādam die Namen alle, dann legte Er sie den Engeln vor und sagte: Teilt Mir die Namen dieser (Dinge) mit, wenn ihr wahrhaftig seid" [al-Baqarah: 31], woraufhin die Engel sagten: *﴿سُبْحَـٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ﴾* „Sie sagten: Preis sei Dir! Wir haben kein Wissen außer dem, was Du uns gelehrt hast. Du bist ja der Allwissende, der Allweise" [al-Baqarah: 32]; das belegt, dass sie das Verborgene nicht kennen.
+**Der vierte Vernichter: Der Glaube, dass sie das absolute Verborgene (al-ġayb al-muṭlaq) kennen;** dies widerspricht Seinem Wort ﷻ: *﴿قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ﴾* „Sag: Niemand in den Himmeln und auf der Erde kennt das Verborgene außer Allah; und sie merken nicht, wann sie auferweckt werden" [an-Naml: 65] – niemand kennt das absolute Verborgene außer unserem Herrn ﷻ. Und wie sollten sie das Verborgene kennen, wo doch unser Herr ﷻ sagte: *﴿وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ﴾* „Und Er lehrte Ādam die Namen alle, dann legte Er sie den Engeln vor und sagte: Teilt Mir die Namen dieser (Dinge) mit, wenn ihr wahrhaftig seid" [al-Baqarah: 31], woraufhin die Engel sagten: *﴿سُبْحَـٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ﴾* „Sie sagten: Preis sei Dir! Wir haben kein Wissen außer dem, was Du uns gelehrt hast. Du bist ja der Allwissende, der Allweise" [al-Baqarah: 32]; das belegt, dass sie das Verborgene nicht kennen.
 
-**Der fünfte Nullifier: Das Herabwürdigen der Engel (tanaqquṣ al-malāʾikah);** wer die Engel herabwürdigt, sie geringschätzt und verächtlich behandelt, dessen Glaube an die Engel ist zunichtegemacht. Allah, der Erhabene, sagt: *﴿مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّ لِّلْكَـٰفِرِينَ﴾* „Wer (auch immer) Allah, Seinen Engeln, Seinen Gesandten, Ǧibrīl und Mīkāl feind ist – so ist Allah den Ungläubigen feind" [al-Baqarah: 98].
+**Der fünfte Vernichter: Das Herabwürdigen der Engel (tanaqquṣ al-malāʾikah);** wer die Engel herabwürdigt, sie geringschätzt und verächtlich behandelt, dessen Glaube an die Engel ist zunichtegemacht. Allah, der Erhabene, sagt: *﴿مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَـٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ عَدُوٌّ لِّلْكَـٰفِرِينَ﴾* „Wer (auch immer) Allah, Seinen Engeln, Seinen Gesandten, Ǧibrīl und Mīkāl feind ist – so ist Allah den Ungläubigen feind" [al-Baqarah: 98].
 
 ---
 
-## 3. Säule: Īmān bil-Kutub – Der Glaube an die Bücher {#pillar-3}
+## 3. Säule: Der Glaube an die Bücher {#pillar-3}
 
 ```html
 <div class="flow">
@@ -794,7 +794,7 @@ Der Glaube an die Engel bringt die Liebe zu ihnen hervor; denn sie widersetzen s
     <div class="flow-col"><div class="flow-node"><span class="ns">الإيمان المفصل</span><span class="nt">Der detaillierte Glaube</span>Glaube an ihre Namen · Anerkennung · Befolgung dessen, was im Qurʾān steht</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض الإيمان بالكتب — Nullifiers</div>
+  <div class="flow-sub">نواقض الإيمان بالكتب — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain">Glauben, sie enthielten verfälschte Rede</div></div>
     <div class="flow-col"><div class="flow-node plain">Glauben, der Qurʾān sei verfälscht oder unvollständig</div></div>
@@ -826,15 +826,15 @@ Der Glaube an die Bücher ist allgemein (muǧmal) und detailliert (mufaṣṣal)
 - **Die zweite Kategorie:** Der Glaube an die früheren Bücher geschieht durch Anerkennung (iqrār) ihrer; so erkennen wir die Tawrāh, das Inǧīl und den Zabūr an. Was den Qurʾān angeht, so geschieht der Glaube an ihn durch Anerkennung und Befolgung (iqrār wa-ittibāʿ).
 - **Die dritte Kategorie:** Der Qurʾān hat die Urteile der früheren Bücher abrogiert (nasaḫa); und wenn der Qurʾān abrogierend (nāsiḫ) ist, so müssen wir ihm folgen, nicht den anderen Büchern.
 
-### Die Nullifiers (Nawāqiḍ) des Glaubens an die Bücher
+### Die Vernichter (Nawāqiḍ) des Glaubens an die Bücher
 
-**Der erste Nullifier: Der Glaube an einige Bücher und der Unglaube an andere.** Wer an die Tawrāh glaubt, aber nicht an den Qurʾān, ist kein Gläubiger an die Bücher; und wer an den Qurʾān glaubt, aber nicht an die Tawrāh und das Inǧīl, ist kein Gläubiger an die Bücher; das Pflichtgemäße ist vielmehr der Glaube an alle Bücher Allahs ﷻ. Allah, der Erhabene, sagt: *﴿وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ﴾* „Und wenn zu ihnen gesagt wird: Glaubt an das, was Allah herabgesandt hat, sagen sie: Wir glauben an das, was auf uns herabgesandt wurde, und verleugnen das, was danach kam, obwohl es die Wahrheit ist, das bestätigend, was ihnen vorliegt" [al-Baqarah: 91].
+**Der erste Vernichter: Der Glaube an einige Bücher und der Unglaube an andere.** Wer an die Tawrāh glaubt, aber nicht an den Qurʾān, ist kein Gläubiger an die Bücher; und wer an den Qurʾān glaubt, aber nicht an die Tawrāh und das Inǧīl, ist kein Gläubiger an die Bücher; das Pflichtgemäße ist vielmehr der Glaube an alle Bücher Allahs ﷻ. Allah, der Erhabene, sagt: *﴿وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ﴾* „Und wenn zu ihnen gesagt wird: Glaubt an das, was Allah herabgesandt hat, sagen sie: Wir glauben an das, was auf uns herabgesandt wurde, und verleugnen das, was danach kam, obwohl es die Wahrheit ist, das bestätigend, was ihnen vorliegt" [al-Baqarah: 91].
 
-**Der zweite Nullifier: Das Nicht-Richten nach Allahs Buch aus Abwendung (iʿrāḍ), Zweifel (šakk) oder Hochmut (istikbār).** Wer sich vom Richten nach Allahs Buch abwendet, oder an der Tauglichkeit von Allahs Urteil zweifelt, oder sich hochmütig über Allahs Urteil erhebt, ist in einen der Nullifiers des Glaubens an die Bücher gefallen, wie es der Zustand der Heuchler ist: *﴿وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَـٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا﴾* „Und wenn zu ihnen gesagt wird: Kommt her zu dem, was Allah herabgesandt hat, und zum Gesandten, siehst du die Heuchler sich entschieden von dir abwenden" [an-Nisāʾ: 61]. Und Allah ﷻ sagt: *﴿وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ﴾* „Und sie sagen: Wir glauben an Allah und an den Gesandten und gehorchen. Hierauf, nach diesem, kehrt sich eine Gruppe von ihnen ab; jene sind nicht die Gläubigen" [an-Nūr: 47].
+**Der zweite Vernichter: Das Nicht-Richten nach Allahs Buch aus Abwendung (iʿrāḍ), Zweifel (šakk) oder Hochmut (istikbār).** Wer sich vom Richten nach Allahs Buch abwendet, oder an der Tauglichkeit von Allahs Urteil zweifelt, oder sich hochmütig über Allahs Urteil erhebt, ist in einen der Vernichter des Glaubens an die Bücher gefallen, wie es der Zustand der Heuchler ist: *﴿وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَـٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًا﴾* „Und wenn zu ihnen gesagt wird: Kommt her zu dem, was Allah herabgesandt hat, und zum Gesandten, siehst du die Heuchler sich entschieden von dir abwenden" [an-Nisāʾ: 61]. Und Allah ﷻ sagt: *﴿وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ﴾* „Und sie sagen: Wir glauben an Allah und an den Gesandten und gehorchen. Hierauf, nach diesem, kehrt sich eine Gruppe von ihnen ab; jene sind nicht die Gläubigen" [an-Nūr: 47].
 
-**Der dritte Nullifier: Der Glaube, dass der Qurʾān verfälscht (muḥarraf) oder unvollständig (nāqiṣ) sei.** Darin liegt eine Lügenbezichtigung Allahs ﷻ; denn Er sagt: *﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ﴾* „Wahrlich, Wir sind es, die Wir die Ermahnung (den Qurʾān) herabgesandt haben, und Wir werden wahrlich ihr Hüter sein" [al-Ḥiǧr: 9]. Und Er ﷻ sagt: *﴿لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ﴾* „Das Falsche kommt weder von vorn noch von hinten an ihn heran – eine Herabsendung von einem Allweisen, Lobenswürdigen" [Fuṣṣilat: 42]. Wer also glaubt, der Qurʾān sei verfälscht oder unvollständig, ist mit einem der Nullifiers des Glaubens an die Bücher gekommen.
+**Der dritte Vernichter: Der Glaube, dass der Qurʾān verfälscht (muḥarraf) oder unvollständig (nāqiṣ) sei.** Darin liegt eine Lügenbezichtigung Allahs ﷻ; denn Er sagt: *﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ﴾* „Wahrlich, Wir sind es, die Wir die Ermahnung (den Qurʾān) herabgesandt haben, und Wir werden wahrlich ihr Hüter sein" [al-Ḥiǧr: 9]. Und Er ﷻ sagt: *﴿لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ﴾* „Das Falsche kommt weder von vorn noch von hinten an ihn heran – eine Herabsendung von einem Allweisen, Lobenswürdigen" [Fuṣṣilat: 42]. Wer also glaubt, der Qurʾān sei verfälscht oder unvollständig, ist mit einem der Vernichter des Glaubens an die Bücher gekommen.
 
-**Der vierte Nullifier: Der Glaube, dass die Bücher erschaffene Rede (kalām maḫlūq) enthielten.** **Dies ist eine wichtige Frage:** Wer glaubt, dass die Bücher erschaffene Rede enthielten, der ist in Wirklichkeit kein Gläubiger an die Bücher, die Allah herabsandte; denn die Bücher, an die wir glauben müssen, enthielten die Rede Allahs, und die Rede Allahs ist nicht erschaffen – die Rede Allahs ist von Ihm ausgegangen, und was von Allah ausgeht, ist nicht erschaffen. Allah ﷻ spricht mit den Büchern wirklich und wahrhaftig (ḥaqīqatan).
+**Der vierte Vernichter: Der Glaube, dass die Bücher erschaffene Rede (kalām maḫlūq) enthielten.** **Dies ist eine wichtige Frage:** Wer glaubt, dass die Bücher erschaffene Rede enthielten, der ist in Wirklichkeit kein Gläubiger an die Bücher, die Allah herabsandte; denn die Bücher, an die wir glauben müssen, enthielten die Rede Allahs, und die Rede Allahs ist nicht erschaffen – die Rede Allahs ist von Ihm ausgegangen, und was von Allah ausgeht, ist nicht erschaffen. Allah ﷻ spricht mit den Büchern wirklich und wahrhaftig (ḥaqīqatan).
 
 ### Die Besonderheiten (Ḫaṣāʾiṣ), durch die Allah den Qurʾān auszeichnete
 
@@ -848,7 +848,7 @@ Der Glaube an die Bücher ist allgemein (muǧmal) und detailliert (mufaṣṣal)
 
 ---
 
-## 4. Säule: Īmān bir-Rusul – Der Glaube an die Gesandten {#pillar-4}
+## 4. Säule: Der Glaube an die Gesandten {#pillar-4}
 
 ```html
 <div class="flow">
@@ -862,7 +862,7 @@ Der Glaube an die Bücher ist allgemein (muǧmal) und detailliert (mufaṣṣal)
     <div class="flow-col"><div class="flow-node"><span class="ns">الإيمان المفصل</span><span class="nt">Der detaillierte Glaube</span>Glaube an ihre Namen · Anerkennung · Befolgung dessen, was unser Prophet brachte</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض الإيمان بالرسل — Nullifiers</div>
+  <div class="flow-sub">نواقض الإيمان بالرسل — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain">Sie herabwürdigen oder schmähen</div></div>
     <div class="flow-col"><div class="flow-node plain">Glauben, sie kennten das absolute Verborgene</div></div>
@@ -874,7 +874,7 @@ Der Glaube an die Bücher ist allgemein (muǧmal) und detailliert (mufaṣṣal)
   <div class="flow-sub">خصائص الرسل / خصائص النبي ﷺ</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node accent"><span class="nt">Eigenheiten der Gesandten</span>Offenbarung (Waḥy) · Unfehlbarkeit (ʿIṣmah) · ihre Augen schlafen, nicht ihre Herzen · die Erde verzehrt ihre Körper nicht · lebendig in ihren Gräbern, betend</div></div>
-    <div class="flow-col"><div class="flow-node accent"><span class="nt">Eigenheiten des Propheten ﷺ</span>der beste der Propheten · gesandt zu den beiden Lasten · die große Fürsprache · die umfassenden Worte (Ǧawāmiʿ al-Kalim) · mit ihm wurde das Prophetentum versiegelt</div></div>
+    <div class="flow-col"><div class="flow-node accent"><span class="nt">Eigenheiten des Propheten ﷺ</span>der beste der Propheten · gesandt zu Mensch und Dschinn · die große Fürsprache · die umfassenden Worte (Ǧawāmiʿ al-Kalim) · mit ihm wurde das Prophetentum versiegelt</div></div>
   </div>
 </div>
 ```
@@ -894,17 +894,17 @@ Der Glaube an die Gesandten ist allgemein (muǧmal) und detailliert (mufaṣṣa
 
 Dies ist der detaillierte Glaube, und er folgt dem Wissen: Wann immer dich ein Text aus dem Buch Allahs erreicht, der mit den Gesandten zusammenhängt, musst du im Einzelnen daran glauben.
 
-### Die Nullifiers (Nawāqiḍ) des Glaubens an die Gesandten
+### Die Vernichter (Nawāqiḍ) des Glaubens an die Gesandten
 
-**Der erste Nullifier: Der Glaube an einige Gesandte unter Ausschluss anderer.** Wer an einige Gesandte glaubt und an andere nicht, hat einen der Nullifiers des Glaubens an die Gesandten begangen und ist ein Ungläubiger. Allah ﷻ sagt: *﴿إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا ۞ أُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا﴾* „Diejenigen, die Allah und Seine Gesandten verleugnen und zwischen Allah und Seinen Gesandten einen Unterschied machen wollen und sagen: Wir glauben an einige und verleugnen andere, und dazwischen einen Weg einschlagen wollen – das sind die wahren Ungläubigen. Und für die Ungläubigen haben Wir eine schmachvolle Strafe bereitet" [an-Nisāʾ: 150-151]; wer also zwischen den Gesandten im Glauben trennt, ist ein Ungläubiger.
+**Der erste Vernichter: Der Glaube an einige Gesandte unter Ausschluss anderer.** Wer an einige Gesandte glaubt und an andere nicht, hat einen der Vernichter des Glaubens an die Gesandten begangen und ist ein Ungläubiger. Allah ﷻ sagt: *﴿إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا۟ بَيْنَ ذَٰلِكَ سَبِيلًا ۞ أُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا﴾* „Diejenigen, die Allah und Seine Gesandten verleugnen und zwischen Allah und Seinen Gesandten einen Unterschied machen wollen und sagen: Wir glauben an einige und verleugnen andere, und dazwischen einen Weg einschlagen wollen – das sind die wahren Ungläubigen. Und für die Ungläubigen haben Wir eine schmachvolle Strafe bereitet" [an-Nisāʾ: 150-151]; wer also zwischen den Gesandten im Glauben trennt, ist ein Ungläubiger.
 
-**Der zweite Nullifier: Das Richten nach anderen als den Gesandten ﷺ aus Abwendung, Hochmut oder Zweifel.** Wer nach anderen als den Gesandten richtet, sich vom Urteil der Gesandten abwendet, oder an der Tauglichkeit des Urteils der Gesandten zweifelt, oder sich hochmütig über das Urteil der Gesandten erhebt, ist ein Ungläubiger; dies ist der Zustand der Heuchler: *﴿وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ﴾* „Und sie sagen: Wir glauben an Allah und an den Gesandten und gehorchen. Hierauf, nach diesem, kehrt sich eine Gruppe von ihnen ab; jene sind nicht die Gläubigen" [an-Nūr: 47].
+**Der zweite Vernichter: Das Richten nach anderen als den Gesandten ﷺ aus Abwendung, Hochmut oder Zweifel.** Wer nach anderen als den Gesandten richtet, sich vom Urteil der Gesandten abwendet, oder an der Tauglichkeit des Urteils der Gesandten zweifelt, oder sich hochmütig über das Urteil der Gesandten erhebt, ist ein Ungläubiger; dies ist der Zustand der Heuchler: *﴿وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ ۚ وَمَآ أُو۟لَـٰٓئِكَ بِٱلْمُؤْمِنِينَ﴾* „Und sie sagen: Wir glauben an Allah und an den Gesandten und gehorchen. Hierauf, nach diesem, kehrt sich eine Gruppe von ihnen ab; jene sind nicht die Gläubigen" [an-Nūr: 47].
 
-**Der dritte Nullifier: Der Glaube, dass die Gesandten und Propheten etwas von den Eigenheiten der Rubūbiyyah oder Ulūhiyyah hätten.** Wer von den Gesandten glaubt, dass sie im Universum (frei) verfügen, dass sie die Macht haben, den Regen herabzusenden, oder dass sie es verdienen, statt Allah ﷻ angebetet zu werden, der hat seinen Glauben an die Gesandten zunichtegemacht. Allah, der Erhabene, sagt: *﴿لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا﴾* „Fürwahr, ungläubig sind diejenigen, die sagen: Allah ist der Messias, der Sohn Maryams. Sag: Wer vermöchte gegen Allah etwas (auszurichten), wenn Er den Messias, den Sohn Maryams, seine Mutter und alle, die auf der Erde sind, vernichten wollte?" [al-Māʾidah: 17] – Allah ﷻ erklärte also den für ungläubig, der ʿĪsā zu Gott machte. Und Er ﷻ sagte: *﴿مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ﴾* „Der Messias, der Sohn Maryams, ist nur ein Gesandter, vor dem bereits Gesandte dahingegangen sind. Und seine Mutter war eine Wahrhaftige; beide pflegten Speise zu essen. Schau, wie Wir ihnen die Zeichen klarmachen, und dann schau, wie sie sich abwenden lassen" [al-Māʾidah: 75] – wer also Speise isst, dem darf keine Anbetung zugewendet werden, wegen seiner Bedürftigkeit. Und Er ﷻ sagte: *﴿وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ﴾* „Und Wir sandten vor dir keine Gesandten, ohne dass sie Speise aßen und auf den Märkten umhergingen" [al-Furqān: 20]. Und Allah befahl den Gesandten zu sagen: *﴿إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ﴾* „Ich bin nur ein Mensch wie ihr; mir wird (als Offenbarung) eingegeben, dass euer Gott nur ein einziger Gott ist" [al-Kahf: 110]; sie sind also Menschen, die Allah ﷻ durch die Offenbarung auszeichnete.
+**Der dritte Vernichter: Der Glaube, dass die Gesandten und Propheten etwas von den Eigenheiten der Rubūbiyyah oder Ulūhiyyah hätten.** Wer von den Gesandten glaubt, dass sie im Universum (frei) verfügen, dass sie die Macht haben, den Regen herabzusenden, oder dass sie es verdienen, statt Allah ﷻ angebetet zu werden, der hat seinen Glauben an die Gesandten zunichtegemacht. Allah, der Erhabene, sagt: *﴿لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا﴾* „Fürwahr, ungläubig sind diejenigen, die sagen: Allah ist der Messias, der Sohn Maryams. Sag: Wer vermöchte gegen Allah etwas (auszurichten), wenn Er den Messias, den Sohn Maryams, seine Mutter und alle, die auf der Erde sind, vernichten wollte?" [al-Māʾidah: 17] – Allah ﷻ erklärte also den für ungläubig, der ʿĪsā zu Gott machte. Und Er ﷻ sagte: *﴿مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ﴾* „Der Messias, der Sohn Maryams, ist nur ein Gesandter, vor dem bereits Gesandte dahingegangen sind. Und seine Mutter war eine Wahrhaftige; beide pflegten Speise zu essen. Schau, wie Wir ihnen die Zeichen klarmachen, und dann schau, wie sie sich abwenden lassen" [al-Māʾidah: 75] – wer also Speise isst, dem darf keine Anbetung zugewendet werden, wegen seiner Bedürftigkeit. Und Er ﷻ sagte: *﴿وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ﴾* „Und Wir sandten vor dir keine Gesandten, ohne dass sie Speise aßen und auf den Märkten umhergingen" [al-Furqān: 20]. Und Allah befahl den Gesandten zu sagen: *﴿إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ﴾* „Ich bin nur ein Mensch wie ihr; mir wird (als Offenbarung) eingegeben, dass euer Gott nur ein einziger Gott ist" [al-Kahf: 110]; sie sind also Menschen, die Allah ﷻ durch die Offenbarung auszeichnete.
 
-**Der vierte Nullifier: Der Glaube, dass sie das absolute Verborgene kennen.** Darin liegt eine Lügenbezichtigung Allahs ﷻ: *﴿قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ﴾* „Sag: Niemand in den Himmeln und auf der Erde kennt das Verborgene außer Allah; und sie merken nicht, wann sie auferweckt werden" [an-Naml: 65]; und Sein Wort: *﴿قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ﴾* „Sag: Ich vermag mir selbst weder Nutzen noch Schaden (zu verschaffen), außer was Allah will. Wenn ich das Verborgene kennte, würde ich mir viel Gutes verschaffen, und Übles würde mir nicht widerfahren. Ich bin nur ein Warner und ein Freudenbote für Leute, die glauben" [al-Aʿrāf: 188]. Das belegt, dass die Propheten das Verborgene nicht kennen; wer glaubt, sie kennten das Verborgene, hat seinen Glauben an die Gesandten zunichtegemacht.
+**Der vierte Vernichter: Der Glaube, dass sie das absolute Verborgene kennen.** Darin liegt eine Lügenbezichtigung Allahs ﷻ: *﴿قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ﴾* „Sag: Niemand in den Himmeln und auf der Erde kennt das Verborgene außer Allah; und sie merken nicht, wann sie auferweckt werden" [an-Naml: 65]; und Sein Wort: *﴿قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ﴾* „Sag: Ich vermag mir selbst weder Nutzen noch Schaden (zu verschaffen), außer was Allah will. Wenn ich das Verborgene kennte, würde ich mir viel Gutes verschaffen, und Übles würde mir nicht widerfahren. Ich bin nur ein Warner und ein Freudenbote für Leute, die glauben" [al-Aʿrāf: 188]. Das belegt, dass die Propheten das Verborgene nicht kennen; wer glaubt, sie kennten das Verborgene, hat seinen Glauben an die Gesandten zunichtegemacht.
 
-**Der fünfte Nullifier: Das Herabwürdigen der Gesandten und das Geringschätzen ihrer oder das Schmähen (sabb) ihrer.** Wer die Gesandten schmäht oder herabwürdigt, ist mit einem der Nullifiers des Glaubens an die Gesandten gekommen. Allah ﷻ sagt: *﴿إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا﴾* „Wahrlich, diejenigen, die Allah und Seinen Gesandten Leid zufügen – Allah verflucht sie im Diesseits und Jenseits, und Er hat für sie eine schmachvolle Strafe bereitet" [al-Aḥzāb: 57].
+**Der fünfte Vernichter: Das Herabwürdigen der Gesandten und das Geringschätzen ihrer oder das Schmähen (sabb) ihrer.** Wer die Gesandten schmäht oder herabwürdigt, ist mit einem der Vernichter des Glaubens an die Gesandten gekommen. Allah ﷻ sagt: *﴿إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا﴾* „Wahrlich, diejenigen, die Allah und Seinen Gesandten Leid zufügen – Allah verflucht sie im Diesseits und Jenseits, und Er hat für sie eine schmachvolle Strafe bereitet" [al-Aḥzāb: 57].
 
 ### Die Eigenheiten (Ḫaṣāʾiṣ) der Gesandten
 
@@ -926,7 +926,7 @@ Unser Prophet ﷺ zeichnete sich vor den übrigen Gesandten durch Eigenheiten au
 
 **Erstens: Er ist der beste der Propheten;** es gibt keinen Propheten, der besser wäre als unser Prophet ﷺ. Allah ﷻ zog die Propheten einander vor, indem Er sagte: *﴿تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ﴾* „Das sind die Gesandten; Wir haben die einen von ihnen vor den anderen bevorzugt" [al-Baqarah: 253]. Und der Beweis, dass er der beste der Propheten ist – Allahs Segnungen und Heil seien auf ihm –, ist sein Wort: *„أَنَا سَيِّدُ وَلَدِ آدَمَ يَوْمَ الْقِيَامَةِ"* „Ich bin der Herr der Kinder Ādams am Tag der Auferstehung" [Überliefert von Muslim]; er ist also ihr Herr und der Liebste zu Allah ﷻ.
 
-**Zweitens: Allah sandte ihn zu den beiden Lasten (aṯ-ṯaqalān): den Dschinn und den Menschen,** wie Allah, der Erhabene, sagt: *﴿وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ﴾* „Und Wir haben dich nur als Bringer froher Botschaft und als Warner für alle Menschen gesandt; aber die meisten Menschen wissen nicht" [Sabaʾ: 28]. Und Er, der Erhabene, sagt: *﴿وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ ۞ قَالُوا۟ يَـٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَـٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ ۞ يَـٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ ۞ وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ بِمُعْجِزٍ فِى ٱلْأَرْضِ وَلَيْسَ لَهُۥ مِن دُونِهِۦٓ أَوْلِيَآءُ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ﴾* „Und (gedenke,) als Wir eine kleine Schar Dschinn zu dir lenkten, die dem Qurʾān zuhörten. Als sie ihm beiwohnten, sagten sie: Seid still! Als er dann zu Ende war, kehrten sie zu ihrem Volk zurück, um zu warnen. Sie sagten: O unser Volk, wir haben ein Buch gehört, das nach Mūsā herabgesandt wurde, das bestätigend, was vor ihm war, und das zur Wahrheit und zu einem geraden Weg leitet. O unser Volk, erhört den Rufer Allahs und glaubt an ihn, so vergibt Er euch (etwas) von euren Sünden und schützt euch vor einer schmerzhaften Strafe. Und wer den Rufer Allahs nicht erhört, kann sich (Ihm) auf der Erde nicht entziehen, und er hat außer Ihm keine Beschützer. Jene befinden sich in deutlichem Irrtum" [al-Aḥqāf: 29-32]. Was die übrigen Propheten angeht, so wurden sie zu ihren Völkern besonders (ḫāṣṣatan) gesandt.
+**Zweitens: Allah sandte ihn zu Mensch und Dschinn (aṯ-ṯaqalān),** wie Allah, der Erhabene, sagt: *﴿وَمَآ أَرْسَلْنَـٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ﴾* „Und Wir haben dich nur als Bringer froher Botschaft und als Warner für alle Menschen gesandt; aber die meisten Menschen wissen nicht" [Sabaʾ: 28]. Und Er, der Erhabene, sagt: *﴿وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ ۞ قَالُوا۟ يَـٰقَوْمَنَآ إِنَّا سَمِعْنَا كِتَـٰبًا أُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ إِلَى ٱلْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ ۞ يَـٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍ ۞ وَمَن لَّا يُجِبْ دَاعِىَ ٱللَّهِ فَلَيْسَ بِمُعْجِزٍ فِى ٱلْأَرْضِ وَلَيْسَ لَهُۥ مِن دُونِهِۦٓ أَوْلِيَآءُ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ﴾* „Und (gedenke,) als Wir eine kleine Schar Dschinn zu dir lenkten, die dem Qurʾān zuhörten. Als sie ihm beiwohnten, sagten sie: Seid still! Als er dann zu Ende war, kehrten sie zu ihrem Volk zurück, um zu warnen. Sie sagten: O unser Volk, wir haben ein Buch gehört, das nach Mūsā herabgesandt wurde, das bestätigend, was vor ihm war, und das zur Wahrheit und zu einem geraden Weg leitet. O unser Volk, erhört den Rufer Allahs und glaubt an ihn, so vergibt Er euch (etwas) von euren Sünden und schützt euch vor einer schmerzhaften Strafe. Und wer den Rufer Allahs nicht erhört, kann sich (Ihm) auf der Erde nicht entziehen, und er hat außer Ihm keine Beschützer. Jene befinden sich in deutlichem Irrtum" [al-Aḥqāf: 29-32]. Was die übrigen Propheten angeht, so wurden sie zu ihren Völkern besonders (ḫāṣṣatan) gesandt.
 
 **Drittens: Allah zeichnete ihn mit der größten Fürsprache (aš-Šafāʿah al-ʿUẓmā) am Tag der Auferstehung aus,** wie Allah, der Erhabene, sagt: *﴿عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا﴾* „Vielleicht wird dein Herr dich zu einer lobenswerten Stätte erwecken" [al-Isrāʾ: 79]; und dies ist „al-Maqām al-Maḥmūd" (die lobenswerte Stätte) – es ist die Fürsprache.
 
@@ -936,7 +936,7 @@ Unser Prophet ﷺ zeichnete sich vor den übrigen Gesandten durch Eigenheiten au
 
 ---
 
-## 5. Säule: Īmān bil-Yawm al-Ākhir – Der Glaube an den Jüngsten Tag {#pillar-5}
+## 5. Säule: Der Glaube an den Jüngsten Tag {#pillar-5}
 
 ```html
 <div class="flow">
@@ -951,7 +951,7 @@ Unser Prophet ﷺ zeichnete sich vor den übrigen Gesandten durch Eigenheiten au
       <ul><li><b>Barzaḫ-Leben:</b> Prüfung im Grab · Strafe/Wonne des Grabes · Stoß ins Horn</li><li><b>Jenseits-Leben:</b> Auferstehung · Versammlung · Fürsprache · Austeilung der Bücher · Abrechnung · Wägung · Becken · Brücke · Übergang · Paradies und Hölle</li></ul></div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض الإيمان باليوم الآخر — Nullifiers</div>
+  <div class="flow-sub">نواقض الإيمان باليوم الآخر — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain">Umdeutung des Jüngsten Tages (تأويله)</div></div>
     <div class="flow-col"><div class="flow-node plain">Leugnen und Verleugnen (إنكاره وجحده)</div></div>
@@ -1067,17 +1067,17 @@ Nach der Brücke halten sie auf dem Übergang (al-qanṭarah) an. Sie ist die Br
 - **Zwei erschaffene Dinge sind, die jetzt schon existieren,** wie Allah über das Paradies sagt: *﴿وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ﴾* „Und beeilt euch um Vergebung von eurem Herrn und (um) einen (Paradies-)Garten, dessen Breite (die) der Himmel und der Erde ist, bereitet für die Gottesfürchtigen" [Āl ʿImrān: 133], und über die Hölle: *﴿وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَـٰفِرِينَ﴾* „Und hütet euch vor dem Feuer, das für die Ungläubigen bereitet ist" [Āl ʿImrān: 131] – das heißt: dass sie schon bereitet und fertiggestellt sind.
 - **Nicht zugrunde gehen und nicht vergehen;** die Leute des Paradieses bleiben ewig darin, und die Leute des Feuers bleiben ewig darin. Allah sagt über das Paradies: *﴿وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا﴾* „Und diejenigen, die glauben und rechtschaffene Werke tun, werden Wir in Gärten eingehen lassen, durcheilt von Bächen, ewig und auf immer darin zu bleiben; darin haben sie gereinigte Gattinnen; und Wir lassen sie in beständigen Schatten eingehen" [an-Nisāʾ: 57]. Und Er, der Erhabene, sagt (über die Früchte des Paradieses): *﴿لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ﴾* „die weder aufhören noch verwehrt sind" [al-Wāqiʿah: 33]. Und Er, der Erhabene, sagt (über die Leute des Feuers): *﴿وَمَا هُم بِخَـٰرِجِينَ مِنَ ٱلنَّارِ﴾* „und sie werden das Feuer nicht verlassen" [al-Baqarah: 167].
 
-### Die Nullifiers (Nawāqiḍ) des Glaubens an den Jüngsten Tag
+### Die Vernichter (Nawāqiḍ) des Glaubens an den Jüngsten Tag
 
-**Der erste Nullifier: Sein Leugnen und Verleugnen (inkāruhu wa-ǧuḥūduhu),** wie es die Leute des Unglaubens (taten) und wie es die Dahriyyūn (die Materialisten) (vertraten); denn sie leugnen den Jüngsten Tag. Allah ﷻ sagt: *﴿وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ ۞ ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ ۞ وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ﴾* „Wehe an jenem Tag den Leugnern, die den Tag des Gerichts für Lüge erklären! Und nur jeder maßlose Sünder erklärt ihn für Lüge" [al-Muṭaffifīn: 10-12]; Allah ﷻ drohte ihnen also mit dem Verderben. Und Er, der Erhabene, sagt: *﴿وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا﴾* „Und es wird gesagt: Heute vergessen Wir euch, so wie ihr die Begegnung mit diesem eurem Tag vergessen habt" [al-Ǧāṯiyah: 34]; wer also die Begegnung mit Allah ﷻ vergisst, den verlässt Allah ﷻ und bestraft ihn.
+**Der erste Vernichter: Sein Leugnen und Verleugnen (inkāruhu wa-ǧuḥūduhu),** wie es die Leute des Unglaubens (taten) und wie es die Dahriyyūn (die Materialisten) (vertraten); denn sie leugnen den Jüngsten Tag. Allah ﷻ sagt: *﴿وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ ۞ ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ ۞ وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ﴾* „Wehe an jenem Tag den Leugnern, die den Tag des Gerichts für Lüge erklären! Und nur jeder maßlose Sünder erklärt ihn für Lüge" [al-Muṭaffifīn: 10-12]; Allah ﷻ drohte ihnen also mit dem Verderben. Und Er, der Erhabene, sagt: *﴿وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا﴾* „Und es wird gesagt: Heute vergessen Wir euch, so wie ihr die Begegnung mit diesem eurem Tag vergessen habt" [al-Ǧāṯiyah: 34]; wer also die Begegnung mit Allah ﷻ vergisst, den verlässt Allah ﷻ und bestraft ihn.
 
-**Der zweite Nullifier: Die Umdeutung des Jüngsten Tages (taʾwīl al-yawm al-āḫir) und dessen, was an ihm geschieht.** Wer den Jüngsten Tag umdeutet, ist in einen der Nullifiers des Glaubens an den Jüngsten Tag gefallen – wie jemand, der etwa kommt und sagt: Die Waage ist die Gerechtigkeit, und es gibt keine wirkliche (körperliche) Waage; und die Brücke ist (etwas) Sinnbildliches (maʿnawī), und es gibt keine sinnlich wahrnehmbare Brücke.
+**Der zweite Vernichter: Die Umdeutung des Jüngsten Tages (taʾwīl al-yawm al-āḫir) und dessen, was an ihm geschieht.** Wer den Jüngsten Tag umdeutet, ist in einen der Vernichter des Glaubens an den Jüngsten Tag gefallen – wie jemand, der etwa kommt und sagt: Die Waage ist die Gerechtigkeit, und es gibt keine wirkliche (körperliche) Waage; und die Brücke ist (etwas) Sinnbildliches (maʿnawī), und es gibt keine sinnlich wahrnehmbare Brücke.
 
-Dies alles gehört zu den Nullifiers; und von den Nullifiers geht manches auf das Fundament (aṣl) des Glaubens an den Jüngsten Tag zurück, und manches geht auf die pflichtgemäße Vollkommenheit (kamāl wāǧib) des Glaubens an den Jüngsten Tag zurück.
+Dies alles gehört zu den Vernichter; und von den Vernichter geht manches auf das Fundament (aṣl) des Glaubens an den Jüngsten Tag zurück, und manches geht auf die pflichtgemäße Vollkommenheit (kamāl wāǧib) des Glaubens an den Jüngsten Tag zurück.
 
 ---
 
-## 6. Säule: Īmān bil-Qadar – Der Glaube an die göttliche Vorherbestimmung {#pillar-6}
+## 6. Säule: Der Glaube an die göttliche Vorherbestimmung {#pillar-6}
 
 ```html
 <div class="flow">
@@ -1099,7 +1099,7 @@ Dies alles gehört zu den Nullifiers; und von den Nullifiers geht manches auf da
     <div class="flow-col"><div class="flow-node accent"><span class="nt">al-Ḫalq (الخلق)</span>die Erschaffung</div></div>
   </div>
   <div class="flow-down"></div>
-  <div class="flow-sub">نواقض الإيمان بالقدر — Nullifiers</div>
+  <div class="flow-sub">نواقض الإيمان بالقدر — Vernichter</div>
   <div class="flow-row">
     <div class="flow-col"><div class="flow-node plain">Glauben, Allah habe die Diener (zu ihren Taten) gezwungen (الله جبر العباد) — die Ǧabriyyah</div></div>
     <div class="flow-col"><div class="flow-node plain">Glauben, der Diener habe seine eigene Tat erschaffen (العبد خلق فعل نفسه) — die Qadariyyah</div></div>
@@ -1140,21 +1140,21 @@ Was in der bewahrten Tafel aufgeschrieben ist, kann sich nicht ändern und nicht
 
 **Es mag jemand fragen: Wie hat Allah die Handlung des Dieners erschaffen, während die Handlung dem Diener zugeschrieben wird?**
 
-**Die Antwort:** Allah ﷻ erschuf im Diener den Willen (al-irādah) und die Fähigkeit (al-qudrah); und die Handlung des Dieners kommt nur durch seinen Willen und seine Fähigkeit zustande. Wenn nun Allah ﷻ den Willen und die Fähigkeit erschuf, so ist Er ﷻ auch der Schöpfer dessen, was durch Willen und Fähigkeit zustande kommt. Allah ist es, der dem Diener den Willen und die Fähigkeit gab; und was aus dem Willen und der Fähigkeit hervorgeht, ist eine Erschaffung Allahs. So tritt nichts aus der Erschaffung Allahs (Glory be to Him) heraus.
+**Die Antwort:** Allah ﷻ erschuf im Diener den Willen (al-irādah) und die Fähigkeit (al-qudrah); und die Handlung des Dieners kommt nur durch seinen Willen und seine Fähigkeit zustande. Wenn nun Allah ﷻ den Willen und die Fähigkeit erschuf, so ist Er ﷻ auch der Schöpfer dessen, was durch Willen und Fähigkeit zustande kommt. Allah ist es, der dem Diener den Willen und die Fähigkeit gab; und was aus dem Willen und der Fähigkeit hervorgeht, ist eine Erschaffung Allahs. So tritt nichts aus der Erschaffung Allahs (erhaben ist Er) heraus.
 
 **Ich nähere dies durch ein Beispiel an:** Der Diener, wenn er betet, dem wird das Gebet zugeschrieben; denn er ist es, der die Handlung unmittelbar ausführte – doch derjenige, der den Diener und sein Gebet erschuf, ist Allah ﷻ. **Die Handlung wird dem Diener zugeschrieben,** weil er sie unmittelbar ausführte, sodass man sagt: „Der Diener ist der Betende"; **und sie wird Allah als Erschaffung zugeschrieben,** sodass man sagt: „Allah erschuf den Diener und sein Gebet."
 
 **Was die Ǧabriyyah (Deterministen) angeht,** so sagen sie: Allah ist es, der betet, weil Allah ihn zur Handlung zwang (ǧabarahu). Diese sind die Ǧabriyyah (und ihre Auffassung ist falsch).
 
-### Die Nullifiers (Nawāqiḍ) des Glaubens an den Qadar
+### Die Vernichter (Nawāqiḍ) des Glaubens an den Qadar
 
-**Der erste Nullifier: Der Glaube, dass Allah die Diener zu ihren Handlungen zwang (ǧabara al-ʿibād).** Wer glaubt, dass der Diener keine Fähigkeit und keine Handlung hat und dass Allah ihn zu seiner Handlung zwang, der hat den Glauben an den Qadar zunichtegemacht. Der Diener hat eine Fähigkeit (qudrah) und einen Willen (irādah); er ist es, der handelt, und die Handlung wird ihm zugeschrieben (wie oben dargelegt).
+**Der erste Vernichter: Der Glaube, dass Allah die Diener zu ihren Handlungen zwang (ǧabara al-ʿibād).** Wer glaubt, dass der Diener keine Fähigkeit und keine Handlung hat und dass Allah ihn zu seiner Handlung zwang, der hat den Glauben an den Qadar zunichtegemacht. Der Diener hat eine Fähigkeit (qudrah) und einen Willen (irādah); er ist es, der handelt, und die Handlung wird ihm zugeschrieben (wie oben dargelegt).
 
-**Der zweite Nullifier: Der Glaube, dass der Diener seine eigene Handlung erschaffen habe (ḫalaqa fiʿl nafsihi).** Wer glaubt, dass der Diener derjenige sei, der seine eigene Handlung erschaffen habe – im Sinne von: er sei es, der etwa das Gebet erschaffen habe –, der ist mit einem der Nullifiers des Glaubens an den Qadar gekommen; denn derjenige, der erschafft, ist Allah ﷻ – es gibt keinen Schöpfer außer Allah. (Dies ist die Auffassung der Qadariyyah.)
+**Der zweite Vernichter: Der Glaube, dass der Diener seine eigene Handlung erschaffen habe (ḫalaqa fiʿl nafsihi).** Wer glaubt, dass der Diener derjenige sei, der seine eigene Handlung erschaffen habe – im Sinne von: er sei es, der etwa das Gebet erschaffen habe –, der ist mit einem der Vernichter des Glaubens an den Qadar gekommen; denn derjenige, der erschafft, ist Allah ﷻ – es gibt keinen Schöpfer außer Allah. (Dies ist die Auffassung der Qadariyyah.)
 
 ---
 
-## Tor 2 – Der Musammā (die Benennung) des Īmān {#tor-2}
+## Tor 2 – Die Benennung des Glaubens {#tor-2}
 
 Nachdem wir über das erste Tor gesprochen haben – die sechs Säulen des Īmān –, sprechen wir nun über das zweite Tor, nämlich das, was sich an die sechs Säulen des Īmān anschließt: den Musammā (die Benennung/den Begriff) des Īmān, die Ṣaḥābah und die Imāmah.
 
@@ -1239,7 +1239,7 @@ Da unser Gespräch über den Īmān ging, ziemt es sich, über sein Gegenteil zu
 
 **Der fünfte: an-Nifāq (die Heuchelei)** – das ist derjenige, der den Unglauben verbirgt und den Islam zur Schau stellt.
 
-**Die zweite Art des großen Unglaubens: Kufr ar-Riddah (der Unglaube der Apostasie)** – dass jemand mit dem Īmān kam, dann aber mit einem der Nullifiers des Īmān kommt.
+**Die zweite Art des großen Unglaubens: Kufr ar-Riddah (der Unglaube der Apostasie)** – dass jemand mit dem Īmān kam, dann aber mit einem der Vernichter des Īmān kommt.
 
 **Der Unglaube der Apostasie** kann durch das Wort des Herzens geschehen, durch das Wort der Zunge, durch das Werk des Herzens oder durch das Werk der Glieder:
 - **Das Wort des Herzens:** wie wenn jemand an etwas von den Pflichtgeboten Allahs ﷻ zweifelt oder etwas von den Pflichtgeboten Allahs ﷻ verleugnet.
@@ -1247,7 +1247,7 @@ Da unser Gespräch über den Īmān ging, ziemt es sich, über sein Gegenteil zu
 - **Das Werk des Herzens:** wie wenn jemand den Propheten ﷺ und das, was er brachte, verabscheut.
 - **Das Werk der Glieder:** wie wenn jemand sich vor einem Grab oder einem Götzen niederwirft.
 
-So wie das Wort ein Nullifier von den Nullifiers des Īmān sein kann, so kann ebenso das Werk ein Nullifier von den Nullifiers des Īmān sein.
+So wie das Wort ein Vernichter von den Vernichter des Īmān sein kann, so kann ebenso das Werk ein Vernichter von den Vernichter des Īmān sein.
 
 **Wir haben jedoch eine wichtige Grundregel beim Unglauben der Apostasie, nämlich:**
 
@@ -1279,7 +1279,7 @@ Wer also in den Unglauben der Apostasie fällt, über den urteilen wir nicht unm
 
 ---
 
-## Aṣ-Ṣaḥābah (die Prophetengefährten) {#sahaba}
+## Die Prophetengefährten (aṣ-Ṣaḥābah) {#sahaba}
 
 ```html
 <div class="flow">
@@ -1341,11 +1341,11 @@ Was zwischen den Ṣaḥābah vorfiel: Sie waren zwischen einem Muǧtahid, der d
 
 Der Beleg dafür ist Sein Wort ﷻ: *﴿وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَـٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّـٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ﴾* „Und die Vorausgeeilten, die Ersten von den Auswanderern und den Helfern, und diejenigen, die ihnen in Güte gefolgt sind – Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm. Und Er hat für sie Gärten bereitet, durcheilt von Bächen, ewig und auf immer darin zu bleiben. Das ist der großartige Erfolg" [at-Tawbah: 100]. Wer also will, dass Allah ﷻ Wohlgefallen an ihm hat, der folge den Ṣaḥābah in Güte nach: in ihrer ʿAqīdah und ihrem Manhaǧ.
 
-Es ist demnach das Befolgen der Gefährten des Gesandten Allahs ﷺ unausweichlich; es ist nicht möglich, dass die ʿAqīdah korrekt ist außer durch das Befolgen der Gefährten des Gesandten Allahs, und es ist nicht möglich, dass die Anbetung korrekt ist außer durch das Befolgen der Gefährten des Gesandten Allahs ﷺ. Wer also ins Paradies eintreten will, dem obliegt das Befolgen der Gefährten des Gesandten Allahs ﷺ; und wer will, dass Allah Wohlgefallen an ihm hat, der folge den Gefährten des Gesandten Allahs ﷺ. Was aber das Schmähen, das Anfechten und das Für-ungläubig-Erklären ihrer angeht, so ist dies ein Nullifier von den Nullifiers (der korrekten ʿAqīdah).
+Es ist demnach das Befolgen der Gefährten des Gesandten Allahs ﷺ unausweichlich; es ist nicht möglich, dass die ʿAqīdah korrekt ist außer durch das Befolgen der Gefährten des Gesandten Allahs, und es ist nicht möglich, dass die Anbetung korrekt ist außer durch das Befolgen der Gefährten des Gesandten Allahs ﷺ. Wer also ins Paradies eintreten will, dem obliegt das Befolgen der Gefährten des Gesandten Allahs ﷺ; und wer will, dass Allah Wohlgefallen an ihm hat, der folge den Gefährten des Gesandten Allahs ﷺ. Was aber das Schmähen, das Anfechten und das Für-ungläubig-Erklären ihrer angeht, so ist dies ein Vernichter von den Vernichter (der korrekten ʿAqīdah).
 
 ---
 
-## Al-Imāmah (das Imamat / die Führung) {#imama}
+## Das Imamat (die Führung) {#imama}
 
 ```html
 <div class="flow">
@@ -1423,7 +1423,7 @@ Die Ṣaḥābah sagten: *„أَفَلَا نُنَابِذُهُمْ بِال�
 
 Dies ist die ʿAqīdah von Ahl as-Sunnah wal-Jamāʿah, die ʿAqīdah der Gefährten des Gesandten Allahs ﷺ. Wer an ihr festhält, ist gerettet; und wer von ihr abweicht, ist irregegangen und (dem Feuer) ausgeliefert.
 
-Und Allah segne und schenke Heil unserem Propheten Muḥammad, seiner Familie und seinen Gefährten.
+Und Allah segne unseren Propheten Muḥammad und schenke ihm Frieden, ebenso seiner Familie und seinen Gefährten.
 
 > ۞ ❁ ۞
 

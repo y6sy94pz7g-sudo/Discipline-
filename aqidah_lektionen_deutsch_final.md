@@ -1383,7 +1383,7 @@ Für die Einsetzung des Imām gibt es zwei Wege:
 1. Dass der Erste eine bestimmte Person als Nachfolger bestimmt und auf sie verweist, wie es Abū Bakr mit ʿUmar tat, indem Abū Bakr ʿUmar als Nachfolger bestimmte und ausdrücklich auf ihn verwies.
 2. Die Nachfolgebestimmung durch eine Gruppe (ǧamāʿah), der die Angelegenheit überantwortet wird, wie es ʿUmar mit den Sechs (aš-šūrā) tat: Er bestimmte sechs (Personen) als Nachfolge-Gremium und machte die Angelegenheit zu einer Beratung (šūrā) unter ihnen.
 
-**Was den notgedrungenen (Weg) angeht, so ist er:** das, was auf ungesetzlichem Weg ergriffen wird, wie das, was durch Gewaltherrschaft (qahr) ergriffen wird. Wer durch Gewaltherrschaft und Übermacht (die Herrschaft) übernimmt, über den einigten sich die Leute des Wissens (darauf), dass er zum Imām wird, wenn sich die Angelegenheit für ihn gefestigt hat.
+**Was den notgedrungenen (Weg) angeht, so ist er:** das, was auf ungesetzlichem Weg ergriffen wird, wie das, was durch Gewaltherrschaft (qahr) ergriffen wird. Wer durch Gewaltherrschaft und Übermacht (die Herrschaft) übernimmt, über den einigten sich die Leute des Wissens (darauf), dass er zum Herrscher (Imām) wird, wenn sich die Angelegenheit für ihn gefestigt hat.
 
 ### Das Urteil über die Bayʿah des Imām (Ḥukm Mubāyaʿat al-Imām)
 

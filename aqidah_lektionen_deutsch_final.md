@@ -62,7 +62,7 @@ Trotz seines jungen Alters hat Šaykh Aḥmad an-Naǧǧār zahlreiche Bücher un
    - [4. Säule: Glaube an die Gesandten](#pillar-4)
    - [5. Säule: Glaube an den Jüngsten Tag](#pillar-5)
    - [6. Säule: Glaube an die göttliche Vorherbestimmung](#pillar-6)
-5. [Tor 2 – Die Benennung des Glaubens](#tor-2)
+5. [Tor 2 – Die Definition des Glaubens](#tor-2)
 6. [Die Prophetengefährten](#sahaba)
 7. [Das Imamat](#imama)
 8. [Schlussworte](#schluss)
@@ -108,7 +108,7 @@ Daher ist es für die Muslime Pflicht, sich um die ʿAqīdah zu kümmern: im Ver
     <div class="flow-col"><div class="flow-node accent"><span class="nt">Tor 1 — Die Säulen des Glaubens</span>Die sechs Säulen des Glaubens:
       <ul><li>Glaube an Allah (Herrschaft · Namen und Eigenschaften · Anbetung)</li><li>Glaube an die Engel</li><li>Glaube an die Bücher</li><li>Glaube an die Gesandten</li><li>Glaube an den Jüngsten Tag</li><li>Glaube an die göttliche Vorherbestimmung</li></ul></div></div>
     <div class="flow-col"><div class="flow-node accent"><span class="nt">Tor 2 — Anschließendes</span>Was sich an die Säulen anschließt:
-      <ul><li>Die Benennung des Glaubens</li><li>Die Prophetengefährten</li><li>Das Imamat</li></ul></div></div>
+      <ul><li>Die Definition des Glaubens</li><li>Die Prophetengefährten</li><li>Das Imamat</li></ul></div></div>
   </div>
 </div>
 ```
@@ -169,7 +169,7 @@ Die Quelle der ʿAqīdah bei Ahl as-Sunnah wal-Jamāʿah geht auf drei Dinge zur
 
 **Hier kommt eine Frage auf, nämlich:** Warum stützen wir die ʿAqīdah nicht auf den Verstand?
 
-**Die Antwort:** Das Tor des Glaubens ist eine verborgene Angelegenheit (amr ġaybī), die wir nicht (mit den Sinnen) bezeugen. Und wenn etwas verborgen ist, kann man es nicht mit dem Verstand begründen; man begründet es vielmehr nur durch den Bericht (al-ḫabar). Und der Bericht ist das, was von Allah oder von Seinem Gesandten ﷺ kommt.
+**Die Antwort:** Das Tor des Glaubens ist eine verborgene Angelegenheit (amr ġaybī), die wir nicht bezeugen. Und wenn etwas verborgen ist, kann man es nicht mit dem Verstand begründen; man begründet es vielmehr nur durch den Bericht (Offenbarung). Und der Bericht ist das, was von Allah oder von Seinem Gesandten ﷺ kommt.
 
 Was den Iǧmāʿ angeht, so geht auch er auf das Buch und die Sunnah zurück; denn der Iǧmāʿ muss notwendigerweise auf einem Beweis aus dem Buch und der Sunnah beruhen.
 
@@ -256,14 +256,14 @@ Der Glaube an Allah beruht auf dem Tawḥīd Allahs ﷻ. Kein Glaube ist gültig
 - *Beispiel:* die Überzeugung, dass der Schöpfer Allah allein ist, dass der Versorger Allah allein ist und dass der Lebensgebende Allah allein ist – wir erkennen also Allah ﷻ in Seinen Handlungen als Einzigen an.
 
 **Zweitens: Der Tawḥīd Allahs in Seinen Namen und Eigenschaften** – im Sinne von: Allah in Seinen Namen und Eigenschaften als Einzigen anzuerkennen.
-- *Beispiel:* „as-Samīʿ" (der Allhörende) ist einer der Namen Allahs ﷻ, mit dem Er ausschließlich verbunden ist, und „as-Samʿ" (das Hören) ist Seine Eigenschaft. Diese Namen und Eigenschaften müssen, wenn sie Allah ﷻ zugeschrieben werden, Ihm allein zuerkannt werden. Denn das vollkommene Hören gibt es nur bei Allah, das vollkommene Sehen gibt es nur bei Allah, und die vollkommene Macht gibt es nur bei Allah, und so weiter.
+- *Beispiel:* „as-Samīʿ" (der Allhörende) ist einer der Namen Allahs ﷻ, mit dem Er ausschließlich beschrieben ist, und „as-Samʿ" (das Hören) ist Seine Eigenschaft. Diese Namen und Eigenschaften müssen, wenn sie Allah ﷻ zugeschrieben werden, Ihm allein zuerkannt werden. Denn das vollkommene Hören gibt es nur bei Allah, das vollkommene Sehen gibt es nur bei Allah, und die vollkommene Macht gibt es nur bei Allah, und so weiter.
 
 **Drittens: Der Tawḥīd Allahs in Seiner Ulūhiyyah** – im Sinne von: Allah in der Anbetung als Einzigen anzuerkennen.
 - *Beispiel:* Allah in Bittgebet (Duʿāʾ), Niederwerfung (Suǧūd) und Schlachten (Ḏabḥ) als Einzigen anzuerkennen; so wird niemand angerufen außer Allah, es wird nur für Allah ﷻ geschlachtet, und es wird sich nur vor Allah niedergeworfen.
 
 ### Die Früchte des Glaubens an Allah
 
-Der Glaube an Allah hat zahlreiche Früchte, die in den Texten des Buches und der Sunnah genannt werden. Ich erwähne davon beispielhaft, nicht erschöpfend, fünf Dinge:
+Der Glaube an Allah hat zahlreiche Früchte, die in den Texten des Buches und der Sunnah genannt werden. Ich erwähne davon unter anderem fünf Dinge:
 
 **Die erste Frucht:** Der Glaube an Allah ﷻ bringt Glückseligkeit (as-saʿādah) im Diesseits und Jenseits hervor. Wer also nach Glückseligkeit sucht, findet keinen Weg zu ihr außer durch den Glauben an Allah ﷻ.
 
@@ -348,7 +348,7 @@ Wer also Festigung und Nachfolge-Herrschaft auf Erden will, dem obliegt die Verw
 
 > *„مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ، أَوْ يُنَصِّرَانِهِ، أَوْ يُمَجِّسَانِهِ"*
 >
-> „Es gibt kein Neugeborenes, das nicht in der Fiṭrah (natürlichen Veranlagung) geboren würde; dann machen seine Eltern es zum Juden, zum Christen oder zum Magier."
+> „Es gibt kein Neugeborenes, das nicht in der Fiṭrah (natürlichen Veranlagung) geboren würde; dann machen seine Eltern es zum Juden, zum Christen oder zum Maǧūs."
 >
 > [Überliefert von al-Buḫārī und Muslim]
 
@@ -527,7 +527,7 @@ Als dieser edle Gefährte erkannte, dass Allah mit dieser Eigenschaft beschriebe
 </div>
 ```
 
-Der Tawḥīd Allahs ﷻ in Seiner Ulūhiyyah ist derjenige, in dem der Streit zwischen den Propheten und ihren Völkern entbrannte; der Prophet ﷺ bekämpfte die Götzendiener der Araber nur wegen ihres Verstoßes gegen den Tawḥīd al-Ulūhiyyah. Als der Prophet ﷺ zu ihnen sagte:
+Der Tawḥīd Allahs ﷻ in Seiner Ulūhiyyah ist derjenige, in dem der Streit zwischen den Propheten und ihren Völkern entbrannte; der Prophet ﷺ widersetzte sich den Götzendienern der Araber nur wegen ihres Verstoßes gegen den Tawḥīd al-Ulūhiyyah. Als der Prophet ﷺ zu ihnen sagte:
 
 > *„قُولُوا: لَا إِلَهَ إِلَّا اللهُ تُفْلِحُوا"* – „Sagt: Es gibt keinen Gott außer Allah, dann habt ihr Erfolg" – sagten sie:
 >
@@ -643,7 +643,7 @@ Es gibt also niemanden, der weiter abgeirrt ist als jemand, der einen anderen al
 
 **Und es gibt einen Zweifelseinwand (šubhah), den manche von ihnen vorbringen, indem sie sagen:** „Ich bin schwach und säumig gegenüber dem Recht Allahs ﷻ, und dieser walī hat Ansehen (ǧāh) bei Allah, also rufe ich ihn an, damit er für mich bei Allah Fürsprache einlegt."
 
-**So sagen wir ihm:** Dieser Ausspruch ist der Ausspruch der Götzendiener der Araber, die der Prophet ﷺ für ungläubig erklärte und deren Blut er für vergießbar erklärte. Allah, der Erhabene, sagt: *﴿وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ﴾* „Und sie dienen anstatt Allah dem, was ihnen weder schadet noch nützt" [Yūnus: 18]. Die Götzendiener der Araber beteten also einen anderen als Allah an – im Sinne von: Sie riefen einen anderen als Allah an und suchten bei ihm Hilfe und schlachteten für ihn; und ihr Argument dabei war, dass sie sagten: *﴿هَـٰٓؤُلَآءِ شُفَعَـٰٓؤُنَا عِندَ ٱللَّهِ﴾* – im Sinne von: Wir sind säumig, und diese haben Ansehen bei Allah, so wollen wir, dass sie für uns bei Allah Fürsprache einlegen. Da antwortete ihnen Allah ﷻ mit Seinem Wort: *﴿قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ﴾* „Sag: Wollt ihr Allah etwas kundtun, das Er nicht kennt – weder in den Himmeln noch auf der Erde? Preis sei Ihm! Und erhaben ist Er über das, was sie (Ihm) beigesellen" [Yūnus: 18]. Er nannte ihr Tun also Širk – und das weist darauf hin, dass das Anrufen eines anderen als Allah Širk ist.
+**So sagen wir ihm:** Dieser Ausspruch ist der Ausspruch der Götzendiener der Araber, die der Prophet ﷺ für ungläubig erklärte. Allah, der Erhabene, sagt: *﴿وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ﴾* „Und sie dienen anstatt Allah dem, was ihnen weder schadet noch nützt" [Yūnus: 18]. Die Götzendiener der Araber beteten also einen anderen als Allah an – im Sinne von: Sie riefen einen anderen als Allah an und suchten bei ihm Hilfe und schlachteten für ihn; und ihr Argument dabei war, dass sie sagten: *﴿هَـٰٓؤُلَآءِ شُفَعَـٰٓؤُنَا عِندَ ٱللَّهِ﴾* – im Sinne von: Wir sind säumig, und diese haben Ansehen bei Allah, so wollen wir, dass sie für uns bei Allah Fürsprache einlegen. Da antwortete ihnen Allah ﷻ mit Seinem Wort: *﴿قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ﴾* „Sag: Wollt ihr Allah etwas kundtun, das Er nicht kennt – weder in den Himmeln noch auf der Erde? Preis sei Ihm! Und erhaben ist Er über das, was sie (Ihm) beigesellen" [Yūnus: 18]. Er nannte ihr Tun also Širk – und das weist darauf hin, dass das Anrufen eines anderen als Allah Širk ist.
 
 **Und ebenso zu den Beispielen des großen Širk gehört: das Schlachten für einen anderen als Allah (aḏ-ḏabḥ li-ġayr Allāh),** wie wenn jemand zu einem Grab geht und sich dem Insassen des Grabes durch Schlachtung nähert, also für ihn ein Schaf oder dergleichen schlachtet – dies ist großer Širk, denn das Schlachten ist eine ʿIbādah, da Allah es befohlen hat. Allah, der Erhabene, sagt: *﴿فَصَلِّ لِرَبِّكَ وَٱنْحَرْ﴾* „So bete zu deinem Herrn und opfere (schlachte)" [al-Kawṯar: 2]; und das Zuwenden der ʿIbādah an einen anderen als Allah ist Širk.
 
@@ -657,13 +657,13 @@ Der Širk des Volkes Nūḥs hatte also seine Ursache in der Übertreibung in Be
 
 ##### Die Urteile des großen Širk (Aḥkām aš-Širk al-Akbar)
 
-**Erstens:** Sein Träger bleibt ewig im Feuer der Hölle und kommt niemals daraus hervor. Allah, der Erhabene, sagt: *﴿إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ﴾* „Diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe" [al-Bayyinah: 6].
+**Erstens:** Sein Begeher bleibt ewig im Feuer der Hölle und kommt niemals daraus hervor. Allah, der Erhabene, sagt: *﴿إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ﴾* „Diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe" [al-Bayyinah: 6].
 
-**Zweitens:** Sein Träger tritt ganz und gar nicht ins Paradies ein. Allah, der Erhabene, sagt: *﴿إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ﴾* „Wer Allah (etwas) beigesellt, dem hat Allah das Paradies verwehrt, und seine Zuflucht ist das Feuer. Und die Ungerechten haben keine Helfer" [al-Māʾidah: 72].
+**Zweitens:** Sein Begeher tritt ganz und gar nicht ins Paradies ein. Allah, der Erhabene, sagt: *﴿إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ﴾* „Wer Allah (etwas) beigesellt, dem hat Allah das Paradies verwehrt, und seine Zuflucht ist das Feuer. Und die Ungerechten haben keine Helfer" [al-Māʾidah: 72].
 
-**Drittens:** Seinem Träger wird nicht vergeben. Allah, der Erhabene, sagt: *﴿إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا﴾* „Wahrlich, Allah vergibt nicht, dass man Ihm (etwas) beigesellt; doch was darunter ist, vergibt Er, wem Er will. Wer Allah (etwas) beigesellt, der hat fürwahr eine gewaltige Sünde ersonnen" [an-Nisāʾ: 48].
+**Drittens:** Seinem Begeher wird nicht vergeben. Allah, der Erhabene, sagt: *﴿إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا﴾* „Wahrlich, Allah vergibt nicht, dass man Ihm (etwas) beigesellt; doch was darunter ist, vergibt Er, wem Er will. Wer Allah (etwas) beigesellt, der hat fürwahr eine gewaltige Sünde ersonnen" [an-Nisāʾ: 48].
 
-**Viertens:** Er macht alle guten Taten seines Trägers zunichte, wenn er darin stirbt, ohne zu bereuen. Allah ﷻ sagt, zu Seinen Propheten gewandt: *﴿وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ﴾* „Hätten sie (Allah etwas) beigesellt, wäre ihnen wahrlich zunichte geworden, was sie zu tun pflegten" [al-Anʿām: 88]; und Er sagte, zur größten Schöpfung (dem Propheten ﷺ) gewandt: *﴿لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ﴾* „Wenn du (Allah etwas) beigesellst, wird deine Tat ganz gewiss zunichte, und du wirst ganz gewiss zu den Verlierern gehören" [az-Zumar: 65].
+**Viertens:** Er macht alle guten Taten seines Begehers zunichte, wenn er darin stirbt, ohne zu bereuen. Allah ﷻ sagt, zu Seinen Propheten gewandt: *﴿وَلَوْ أَشْرَكُوا۟ لَحَبِطَ عَنْهُم مَّا كَانُوا۟ يَعْمَلُونَ﴾* „Hätten sie (Allah etwas) beigesellt, wäre ihnen wahrlich zunichte geworden, was sie zu tun pflegten" [al-Anʿām: 88]; und Er sagte, zur größten Schöpfung (dem Propheten ﷺ) gewandt: *﴿لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ﴾* „Wenn du (Allah etwas) beigesellst, wird deine Tat ganz gewiss zunichte, und du wirst ganz gewiss zu den Verlierern gehören" [az-Zumar: 65].
 
 Und deshalb warne ich nachdrücklich vor dem großen Širk; denn seine Folgen sind verhängnisvoll, und niemand kann sich vor dem Širk hüten außer durch dessen Kenntnis.
 
@@ -677,7 +677,7 @@ Und deshalb warne ich nachdrücklich vor dem großen Širk; denn seine Folgen si
 
 - *Beispiel:* Das Schwören bei einem anderen als Allah (al-ḥalf bi-ġayr Allāh), wie der Prophet ﷺ sagte: *„مَنْ حَلَفَ بِغَيْرِ اللهِ فَقَدْ أَشْرَكَ"* „Wer bei einem anderen als Allah schwört, hat (kleinen) Širk begangen" [Überliefert von Abū Dāwūd]. Der Gesetzgeber nannte es also Širk, und es ist ein Mittel zum großen Širk, indem der Beschworene so verherrlicht wird, wie Allah ﷻ verherrlicht wird. **Das Schwören bei einem anderen als Allah** ist, wie wenn jemand sagt: „bei der Kaʿbah", „bei der Barmherzigkeit meines Vaters", „bei deinem Haupt", „bei dem Haupt meiner Mutter" und dergleichen Ausdrücke mehr. Der Prophet ﷺ sagte: *„مَنْ كَانَ حَالِفًا فَلْيَحْلِفْ بِاللهِ أَوْ لِيَصْمُتْ"* „Wer schwören will, der schwöre bei Allah oder schweige" [Überliefert von al-Buḫārī].
 
-- *Weiteres Beispiel:* Das Heranziehen von etwas, das weder eine gesetzlich (šarʿī) noch eine schicksalhaft (qadarī) (festgelegte) Ursache ist, im Glauben, es sei eine Ursache – wie wenn jemand ein Amulett (tamīmah) umhängt, um den (bösen) Blick (al-ʿayn) abzuwehren, und sein Herz daran hängt. Würde ein Mensch ein Amulett heranziehen, so wäre er in den kleinen Širk gefallen, weil er es zu einer Ursache gemacht hat, obwohl es keine Ursache ist.
+- *Weiteres Beispiel:* Das Heranziehen von etwas, das weder eine gesetzlich (šarʿī) noch eine (durch den Qadar) festgelegte Ursache ist, im Glauben, es sei eine Ursache – wie wenn jemand ein Amulett (tamīmah) umhängt, um den (bösen) Blick (al-ʿayn) abzuwehren, und sein Herz daran hängt. Würde ein Mensch ein Amulett heranziehen, so wäre er in den kleinen Širk gefallen, weil er es zu einer Ursache gemacht hat, obwohl es keine Ursache ist.
 
 ##### Die Urteile des kleinen Širk (Aḥkām aš-Širk al-Aṣghar)
 
@@ -737,7 +737,7 @@ Der Glaube an die Engel ist eine Säule von den Säulen des Īmān; der Glaube d
 >
 > [an-Nisāʾ: 136]
 
-**Wer sind die Engel, an die wir glauben müssen?** Die Engel sind eine verborgene Welt (ʿālam ġaybī), die wir nicht (mit den Sinnen) bezeugen, und sie haben kein Gegenstück (in unserer Welt); so können wir sie nur über den Weg von Buch und Sunnah erkennen.
+**Wer sind die Engel, an die wir glauben müssen?** Die Engel sind eine verborgene Welt (ʿālam ġaybī), die wir nicht sehen, und sie haben keinen Ebenbürtigen; so können wir sie nur über den Weg von Buch und Sunnah erkennen.
 
 **Und die Engel sind, wie es in Buch und Sunnah (vorkommt):**
 - **Geistwesen (rūḥāniyyūn)** – im Sinne von: Geister (arwāḥ), wie Allah ﷻ über Ǧibrīl sagte: *﴿فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا﴾* „Da sandten Wir Unseren Geist zu ihr, und er stellte sich ihr als ein wohlgestalteter Mensch dar" [Maryam: 17] – Er nannte ihn also „Geist". Und der Geist ist nicht etwas (bloß) Abstraktes, sondern eine in sich bestehende Wesenheit (ʿayn qāʾimah bi-ḏātihā); die Engel sind also Geister, die Eigenschaften haben.
@@ -846,7 +846,7 @@ Der Glaube an die Bücher ist allgemein (muǧmal) und detailliert (mufaṣṣal)
 
 **Drittens:** Der Qurʾān ist Wächter (muhaymin) über die Bücher, die vor ihm waren; er ist also Richter (ḥākim), Zeuge (šahīd) und Bestätiger (muṣaddiq) dessen, was an Büchern vor ihm war, wie Allah, der Erhabene, sagt: *﴿وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ﴾* „Und Wir haben zu dir das Buch mit der Wahrheit herabgesandt, das bestätigend, was von dem Buch vor ihm war, und als Wächter darüber" [al-Māʾidah: 48]. Und zu seinem „Wächter-Sein" gehört: dass er die früheren Bücher abrogiert hat, sodass nur nach dem Buch Allahs ﷻ gehandelt wird.
 
-**Viertens:** Der Qurʾān ist bewahrt (maḥfūẓ) vor Veränderung und Wandel; Allah ﷻ sagt: *﴿لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ﴾* „Das Falsche kommt weder von vorn noch von hinten an ihn heran – eine Herabsendung von einem Allweisen, Lobenswürdigen" [Fuṣṣilat: 42]; denn derjenige, der die Bewahrung des Qurʾān übernommen hat, ist Allah ﷻ – und wenn Allah ﷻ dessen Bewahrung übernommen hat, so wird ihn weder Veränderung noch Wandel ereilen, wie Allah, der Erhabene, sagt: *﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ﴾* „Wahrlich, Wir sind es, die Wir die Ermahnung herabgesandt haben, und Wir werden wahrlich ihr Hüter sein" [al-Ḥiǧr: 9]. Die früheren Bücher hingegen wurden von der Verfälschung (taḥrīf) erfasst; denn Allah ﷻ machte die Gelehrten und die Rabbiner zu denen, die ihre Bücher bewahren sollten, wie Allah, der Erhabene, sagt: *﴿إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ﴾* „Wahrlich, Wir sandten die Tawrāh herab, in der Rechtleitung und Licht sind; nach ihr richteten die Propheten, die sich (Allah) ergeben hatten, für die Juden, ebenso die Gottesgelehrten und die Rabbiner, gemäß dem, was ihnen vom Buch Allahs anvertraut worden war und dessen Zeugen sie waren" [al-Māʾidah: 44].
+**Viertens:** Der Qurʾān ist bewahrt (maḥfūẓ) vor Veränderung und Wandel; Allah ﷻ sagt: *﴿لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ﴾* „Das Falsche kommt weder von vorn noch von hinten an ihn heran – eine Herabsendung von einem Allweisen, Lobenswürdigen" [Fuṣṣilat: 42]; denn derjenige, der die Bewahrung des Qurʾān übernommen hat, ist Allah ﷻ – und wenn Allah ﷻ dessen Bewahrung übernommen hat, so wird ihn weder Veränderung noch Wandel ereilen, wie Allah, der Erhabene, sagt: *﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ﴾* „Wahrlich, Wir sind es, die Wir die Ermahnung herabgesandt haben, und Wir werden wahrlich ihr Hüter sein" [al-Ḥiǧr: 9]. Die früheren Bücher hingegen wurden von der Verfälschung (taḥrīf) erfasst; denn Allah ﷻ machte die Gelehrten und die Rabbiner zu denen, die ihre Bücher bewahren sollten, wie Allah, der Erhabene, sagt: *﴿إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ﴾* „Wahrlich, Wir sandten die Tawrāh herab, in der Rechtleitung und Licht sind; nach ihr richteten die Propheten, die sich (Allah) ergeben hatten, für die Juden, ebenso die Gelehrten und die Rabbiner, gemäß dem, was ihnen vom Buch Allahs anvertraut worden war und dessen Zeugen sie waren" [al-Māʾidah: 44].
 
 ---
 
@@ -1156,9 +1156,9 @@ Was in der bewahrten Tafel aufgeschrieben ist, kann sich nicht ändern und nicht
 
 ---
 
-## Tor 2 – Die Benennung des Glaubens {#tor-2}
+## Tor 2 – Die Definition des Glaubens {#tor-2}
 
-Nachdem wir über das erste Tor gesprochen haben – die sechs Säulen des Īmān –, sprechen wir nun über das zweite Tor, nämlich das, was sich an die sechs Säulen des Īmān anschließt: den Musammā (die Benennung/den Begriff) des Īmān, die Ṣaḥābah und die Imāmah.
+Nachdem wir über das erste Tor gesprochen haben – die sechs Säulen des Īmān –, sprechen wir nun über das zweite Tor, nämlich das, was sich an die sechs Säulen des Īmān anschließt: den Musammā (die Definition/den Begriff) des Īmān, die Ṣaḥābah und die Imāmah.
 
 ### Erste Frage: Der Īmān ist Wort und Tat (qawlun wa-ʿamal)
 
@@ -1196,7 +1196,7 @@ Der Īmān nimmt zu durch den Gehorsam (aṭ-ṭāʿah) und ab durch die Sünde 
 
 Und ebenso nimmt er durch die Sünde ab, wie der Prophet ﷺ sagte: *„مَا رَأَيْتُ مِنْ نَاقِصَاتِ عَقْلٍ وَدِينٍ أَذْهَبَ لِلُبِّ ذِي لُبٍّ مِنْ إِحْدَاكُنَّ"* „Ich habe nichts gesehen, das einem verständigen Mann den Verstand mehr raubt, als eine von euch (Frauen) – die ihr an Verstand und Religion mangelhaft seid" [Überliefert von al-Buḫārī und Muslim]; dann erklärte er den Mangel an Religion damit, dass sie während der Menstruation nicht betet. Dies belegt, dass der Īmān abnehmen kann, und seine Abnahme geschieht entweder durch die Sünde oder durch das Unterlassen des Gehorsams, wenn man dafür entschuldigt ist – sodass sie (die Abnahme) im Verhältnis zum Vollbringen des Gehorsams eine Abnahme des Īmān ist.
 
-In dem Sinne: Wir haben zwei Frauen – eine Frau, die menstruierte, und eine Frau, die nicht menstruierte; die Frau, die nicht menstruiert, betet die Gebete, und die Frau, die menstruiert, betet nicht. Diese Frau, die menstruierte, hat im Verhältnis zu der Frau, die nicht menstruierte, mehr Īmān; denn jene betet, und diese betet nicht – auch wenn sie entschuldigt ist und keine Sünde auf sich lädt.
+In dem Sinne: Wir haben zwei Frauen – eine Frau, die menstruierte, und eine Frau, die nicht menstruierte; die Frau, die nicht menstruiert, betet die Gebete, und die Frau, die menstruiert, betet nicht. Diese Frau, die menstruierte, hat im Verhältnis zu der Frau, die nicht menstruierte, weniger Īmān; denn jene betet, und diese betet nicht – auch wenn sie entschuldigt ist und keine Sünde auf sich lädt.
 
 ### Dritte Frage: Die Zulässigkeit des Vorbehalts (al-Istiṯnāʾ) im Īmān
 
@@ -1259,7 +1259,7 @@ Wer also in den Unglauben der Apostasie fällt, über den urteilen wir nicht unm
 
 #### Die Urteile des großen Unglaubens (Aḥkām al-Kufr al-Akbar)
 
-**Erstens:** Sein Träger bleibt ewig im Feuer der Hölle. Allah, der Erhabene, sagt: *﴿إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ﴾* „Diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe" [al-Bayyinah: 6].
+**Erstens:** Sein Begeher bleibt ewig im Feuer der Hölle. Allah, der Erhabene, sagt: *﴿إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ﴾* „Diejenigen unter den Leuten der Schrift und den Götzendienern, die ungläubig sind, werden im Feuer der Hölle sein, ewig darin zu bleiben. Das sind die schlechtesten Geschöpfe" [al-Bayyinah: 6].
 
 **Zweitens:** Sein Träger tritt aus der Glaubensgemeinschaft (al-millah) aus und ist kein Muslim mehr.
 
@@ -1311,7 +1311,7 @@ Jeder, der den Propheten ﷺ sah, auch nur für einen Augenblick, ist ein Ṣa�
 
 Die Ṣaḥābah haben gewaltige Eigenschaften; darunter:
 
-**Erstens: Sie sind rechtschaffen (ʿudūl).** Allah ﷻ erklärte sie von über sieben Himmeln her für rechtschaffen: *﴿وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَـٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّـٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ﴾* „Und die Vorausgeeilten, die Ersten von den Auswanderern und den Helfern, und diejenigen, die ihnen in Güte gefolgt sind – Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm. Und Er hat für sie Gärten bereitet, durcheilt von Bächen, ewig und auf immer darin zu bleiben. Das ist der großartige Erfolg" [at-Tawbah: 100]. Die Bestätigung (tazkiyah) Allahs ﷻ für die Ṣaḥābah schließt ihre Rechtschaffenheit ein; die Ṣaḥābah sind rechtschaffen, vom ersten bis zum letzten von ihnen, durch die Bestätigung Allahs für sie und durch die Bestätigung des Gesandten Allahs ﷺ für sie. Allah ﷻ sagte: *﴿وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ﴾* „Und allen hat Allah das Beste (das Paradies) versprochen" [al-Ḥadīd: 10]. Die Ṣaḥābah haben (gleichsam) die Brücke überschritten (sie stehen über jedem Zweifel).
+**Erstens: Sie sind rechtschaffen (ʿudūl).** Allah ﷻ erklärte sie von über sieben Himmeln her für rechtschaffen: *﴿وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَـٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّـٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ﴾* „Und die Vorausgeeilten, die Ersten von den Auswanderern und den Helfern, und diejenigen, die ihnen in Güte gefolgt sind – Allah hat Wohlgefallen an ihnen, und sie haben Wohlgefallen an Ihm. Und Er hat für sie Gärten bereitet, durcheilt von Bächen, ewig und auf immer darin zu bleiben. Das ist der großartige Erfolg" [at-Tawbah: 100]. Die Bestätigung (tazkiyah) Allahs ﷻ für die Ṣaḥābah schließt ihre Rechtschaffenheit ein; die Ṣaḥābah sind rechtschaffen, vom ersten bis zum letzten von ihnen, durch die Bestätigung Allahs für sie und durch die Bestätigung des Gesandten Allahs ﷺ für sie. Allah ﷻ sagte: *﴿وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ﴾* „Und allen hat Allah das Beste (das Paradies) versprochen" [al-Ḥadīd: 10]. Die Ṣaḥābah haben (gleichsam) die Brücke überschritten.
 
 **Zweitens: Die Güte ihrer Herzen (ḫayriyyat qulūbihim).** Ibn Masʿūd sagte: *„إِنَّ اللهَ نَظَرَ فِي قُلُوبِ الْعِبَادِ فَوَجَدَ قَلْبَ مُحَمَّدٍ ﷺ خَيْرَ قُلُوبِ الْعِبَادِ، فَاصْطَفَاهُ لِنَفْسِهِ، فَابْتَعَثَهُ بِرِسَالَتِهِ، ثُمَّ نَظَرَ فِي قُلُوبِ الْعِبَادِ بَعْدَ قَلْبِ مُحَمَّدٍ ﷺ، فَوَجَدَ قُلُوبَ أَصْحَابِهِ ﷺ خَيْرَ قُلُوبِ الْعِبَادِ، فَجَعَلَهُمْ وُزَرَاءَ نَبِيِّهِ ﷺ، يُقَاتِلُونَ عَلَى دِينِهِ"* „Wahrlich, Allah blickte in die Herzen der Diener und fand das Herz Muḥammads ﷺ als das beste der Herzen der Diener, so erwählte Er es für Sich und berief ihn mit Seiner Botschaft. Dann blickte Er in die Herzen der Diener nach dem Herzen Muḥammads ﷺ und fand die Herzen seiner Gefährten ﷺ als die besten der Herzen der Diener, so machte Er sie zu Ministern Seines Propheten ﷺ, die für Seine Religion kämpfen" [Überliefert von Aḥmad im Musnad; es hat das Urteil des Marfūʿ]. Diese Güte bezeugte Allah ﷻ, und Er ist der Allwissende, der Allkundige.
 

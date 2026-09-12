@@ -439,3 +439,4 @@ h2, h3, h4 { break-after: avoid; }
   padding-top: 2mm;
 }
 .footnote .fn-num { color: var(--gold); font-weight: 700; margin-right: 3px; }
+.fn-ref { color: var(--gold); font-weight: 700; font-size: .68em; vertical-align: super; padding-left: 1px; }

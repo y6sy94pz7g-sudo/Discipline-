@@ -1,0 +1,26 @@
+TRANSKRIPT der Sprachnachricht zum Review von al-Fatwā al-Ḥamawiyyah
+(automatisch transkribiert mit faster-whisper large-v3; ~3:43 min)
+Alle hier genannten Korrekturen sind bereits in content_ham.js / Hamawiyyah.pdf eingearbeitet.
+
+Auf Seite 3 steht: "und in den authentischen (ṣaḥīḥ) und guten (ḥasan) Überlieferungen
+findet sich ebenso Unzählbares..." -> ersetzen durch "findet sich das, was sich nur mit
+Mühe zählen lässt".
+Auf Seite 5 im Gedicht: "unser Herr im Himmel ist überaus groß geworden" -> "überaus groß
+und erhaben".
+Auf Seite 7: "beständig" -> "dauernd".
+Darunter: "niemals aussprechen" -> "niemals klarstellen".
+Davor "weder dem Wortlaut" -> "weder dem eindeutigen Wortlaut" (eindeutig einsetzen).
+Seite 8 oben: "um der Gemeinschaft" -> "um der Gemeinschaft (Ummah)".
+Seite 8: "diese sich gekünstelt Verausgabenden" -> "Scholastiker".
+Seite 9: markieren "jener Verstand ... bis jeder Uneinigkeit auf der Erde" (das ist das
+Wort vom Autor, nicht von der Sekte).
+Seite 9: "beim Streit" -> besser "Meinungsunterschied".
+Seite 9: "dieser Theologen" -> "Scholastiker".
+Seite 9: "diese Rede - ich habe gesehen" -> "sah ich"; und "und sie ist für ihre Gesamtheit".
+Seite 10: neben "enthoben" in Klammer "zu ihm kehrt man nicht zurück".
+Seite 10: "Götzen" -> "falsche Richter (ṭawāghīt)".
+Seite 13: "diese sich Verausgabenden" -> "sich unnötig Bemühende".
+Seite 13: "weder dem Wortlaut" -> "weder dem eindeutigen Wortlaut".
+Seite 13: "der Spitzfindige" -> Schrägstrich + "Geschickte" ("Spitzfindige / Geschickte").
+Seite 13: "die Gesandtschaft hätte sie nur an Blindheit..." -> "die Botschaft".
+Letzte Seite: "was eure Maßstäbe erfordern" -> "was eure Analogien erfordern".

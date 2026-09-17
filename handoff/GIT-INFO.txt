@@ -1,0 +1,42 @@
+REPOSITORY: y6sy94pz7g-sudo/Discipline-
+WORKING BRANCH: claude/german-islamic-book-design-4altjz
+REMOTE: https://github.com/y6sy94pz7g-sudo/Discipline-
+
+=== COMMIT HISTORY (this project) ===
+fa52982 Apply reviewer corrections to al-Fatwā al-Ḥamawiyyah (audio + marked-up PDF)
+29edb14 Add German edition of al-Fatwā al-Ḥamawiyyah (ʿuluww section)
+732d604 Add author profile front matter; retitle; "Überprüft von"
+ee89277 Apply handwritten (marked-up PDF) corrections to Muqaddimah
+13ff2d8 Apply reviewer corrections to Muqaddimah (from audio feedback)
+947fa8b Add German book edition: Muqaddimah (al-Fatwā al-Ḥamawiyyah)
+9c6497c Add complete German translation of Bosnian thesis on Hochmut (al-Kibr)
+
+=== LAST COMMIT DETAIL ===
+commit fa529824f2797fca2ed745307c7756bc71e1d0cf
+Author: Claude <noreply@anthropic.com>
+Date:   Thu Jul 16 08:44:59 2026 +0000
+
+    Apply reviewer corrections to al-Fatwā al-Ḥamawiyyah (audio + marked-up PDF)
+    
+    Terminology/wording refinements per review:
+    - naṣṣ rendered as "eindeutiger Wortlaut" (S.7, S.13)
+    - "beständig" → "dauernd"; "aussprechen" → "klarstellen" (S.7)
+    - "Gemeinschaft (Ummah)" gloss (S.8)
+    - "sich Verausgabenden" → "Scholastiker" (S.8) / "sich unnötig Bemühenden"
+      (S.10, S.13); "Theologen" → "Scholastiker" (S.9)
+    - author's aside highlighted (S.9); "Streit" → "Meinungsunterschied" (S.9)
+    - "sah ich … und sie ist" phrasing (S.9)
+    - "enthoben sei [d.h. zu ihm kehrt man nicht zurück]" (S.10)
+    - "Götzen" → "falsche Richter (ṭawāghīt)" (S.10)
+    - "Spitzfindige / Geschickte" (S.13); "Gesandtschaft" → "Botschaft" (S.13)
+    - "Maßstäbe" → "Analogien" (S.14); "Unzählbares" reworded (S.3)
+    - poem: "groß und erhaben" (S.5)
+    
+    Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+    Claude-Session: https://claude.ai/code/session_014osmPRd8W5MPixxGvuaY2G
+
+ hamawiyyah/Hamawiyyah.html    |  25 ++++++++++++++-----------
+ hamawiyyah/Hamawiyyah.pdf     | Bin 459919 -> 460914 bytes
+ hamawiyyah/src/build_ham.js   |   3 +++
+ hamawiyyah/src/content_ham.js |  22 +++++++++++-----------
+ 4 files changed, 28 insertions(+), 22 deletions(-)
